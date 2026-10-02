@@ -1,0 +1,717 @@
+{
+    "table": "TrialUnitBase",
+    "key_type": "int",
+    "columns": [
+        "TrialHeroID",
+        "UnitID",
+        "HeroLevel",
+        "HeroStars",
+        "ArtifactStar",
+        "ArtifactLevel",
+        "WeaponGems",
+        "EquipGroupID",
+        "EquipAttrID",
+        "SkillLevel",
+        "AppearanceID"
+    ],
+    "rows": [
+        {
+            "key": 1215,
+            "TrialHeroID": 1215,
+            "UnitID": 1014,
+            "HeroLevel": 35,
+            "HeroStars": 15,
+            "ArtifactStar": 4,
+            "ArtifactLevel": 15,
+            "EquipGroupID": [
+                1240001,
+                1240002,
+                1240003,
+                1240004,
+                1240005,
+                1240006
+            ],
+            "EquipAttrID": [
+                16151101,
+                16000100,
+                16000100,
+                16000100,
+                16000100,
+                16000100
+            ],
+            "SkillLevel": [
+                5,
+                5,
+                5,
+                5,
+                5,
+                5
+            ],
+            "AppearanceID": 1221401
+        },
+        {
+            "key": 1216,
+            "TrialHeroID": 1216,
+            "UnitID": 1016,
+            "HeroLevel": 35,
+            "HeroStars": 15,
+            "ArtifactStar": 4,
+            "ArtifactLevel": 15,
+            "EquipGroupID": [
+                1240001,
+                1240002,
+                1240003,
+                1240004,
+                1240005,
+                1240006
+            ],
+            "EquipAttrID": [
+                16151101,
+                16000100,
+                16000100,
+                16000100,
+                16000100,
+                16000100
+            ],
+            "SkillLevel": [
+                5,
+                5,
+                5,
+                5,
+                5,
+                5
+            ],
+            "AppearanceID": 1221601
+        },
+        {
+            "key": 1219,
+            "TrialHeroID": 1219,
+            "UnitID": 1019,
+            "HeroLevel": 20,
+            "HeroStars": 10,
+            "ArtifactStar": 3,
+            "EquipGroupID": [
+                1240001,
+                1240002,
+                1240003,
+                1240004,
+                1240005,
+                1240006
+            ],
+            "EquipAttrID": [
+                14000100,
+                14000100,
+                14000100,
+                14000100,
+                14000100,
+                14000100
+            ],
+            "SkillLevel": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "AppearanceID": 1221901
+        },
+        {
+            "key": 1303,
+            "TrialHeroID": 1303,
+            "UnitID": 1003,
+            "HeroLevel": 50,
+            "HeroStars": 15,
+            "ArtifactStar": 4,
+            "ArtifactLevel": 15,
+            "WeaponGems": [
+                1251056
+            ],
+            "EquipGroupID": [
+                1240001,
+                1240002,
+                1240003,
+                1240004,
+                1240005,
+                1240006
+            ],
+            "EquipAttrID": [
+                16151101,
+                16000100,
+                16000100,
+                16000100,
+                16000100,
+                16000100
+            ],
+            "SkillLevel": [
+                5,
+                5,
+                5,
+                5,
+                5,
+                5
+            ],
+            "AppearanceID": 1220301
+        },
+        {
+            "key": 1307,
+            "TrialHeroID": 1307,
+            "UnitID": 1007,
+            "HeroLevel": 50,
+            "HeroStars": 15,
+            "ArtifactStar": 4,
+            "ArtifactLevel": 15,
+            "EquipGroupID": [
+                1240001,
+                1240002,
+                1240003,
+                1240004,
+                1240005,
+                1240006
+            ],
+            "EquipAttrID": [
+                16151101,
+                16000100,
+                16000100,
+                16000100,
+                16000100,
+                16000100
+            ],
+            "SkillLevel": [
+                5,
+                5,
+                5,
+                5,
+                5,
+                5
+            ],
+            "AppearanceID": 1220701
+        },
+        {
+            "key": 1310,
+            "TrialHeroID": 1310,
+            "UnitID": 1010,
+            "HeroLevel": 50,
+            "HeroStars": 15,
+            "ArtifactStar": 4,
+            "ArtifactLevel": 15,
+            "EquipGroupID": [
+                1240001,
+                1240002,
+                1240003,
+                1240004,
+                1240005,
+                1240006
+            ],
+            "EquipAttrID": [
+                16151101,
+                16000100,
+                16000100,
+                16000100,
+                16000100,
+                16000100
+            ],
+            "SkillLevel": [
+                5,
+                5,
+                5,
+                5,
+                5,
+                5
+            ],
+            "AppearanceID": 1221001
+        },
+        {
+            "key": 1315,
+            "TrialHeroID": 1315,
+            "UnitID": 1015,
+            "HeroLevel": 50,
+            "HeroStars": 15,
+            "ArtifactStar": 4,
+            "ArtifactLevel": 15,
+            "EquipGroupID": [
+                1240001,
+                1240002,
+                1240003,
+                1240004,
+                1240005,
+                1240006
+            ],
+            "EquipAttrID": [
+                16151101,
+                16000100,
+                16000100,
+                16000100,
+                16000100,
+                16000100
+            ],
+            "SkillLevel": [
+                5,
+                5,
+                5,
+                5,
+                5,
+                5
+            ],
+            "AppearanceID": 1221501
+        },
+        {
+            "key": 1327,
+            "TrialHeroID": 1327,
+            "UnitID": 1027,
+            "HeroLevel": 50,
+            "HeroStars": 15,
+            "ArtifactStar": 4,
+            "ArtifactLevel": 15,
+            "WeaponGems": [
+                1251096
+            ],
+            "EquipGroupID": [
+                1240001,
+                1240002,
+                1240003,
+                1240004,
+                1240005,
+                1240006
+            ],
+            "EquipAttrID": [
+                16151101,
+                16000100,
+                16000100,
+                16000100,
+                16000100,
+                16000100
+            ],
+            "SkillLevel": [
+                5,
+                5,
+                5,
+                5,
+                5,
+                5
+            ],
+            "AppearanceID": 1222701
+        },
+        {
+            "key": 1328,
+            "TrialHeroID": 1328,
+            "UnitID": 1028,
+            "HeroLevel": 50,
+            "HeroStars": 15,
+            "ArtifactStar": 4,
+            "ArtifactLevel": 15,
+            "WeaponGems": [
+                1251106
+            ],
+            "EquipGroupID": [
+                1240001,
+                1240002,
+                1240003,
+                1240004,
+                1240005,
+                1240006
+            ],
+            "EquipAttrID": [
+                16151101,
+                16000100,
+                16000100,
+                16000100,
+                16000100,
+                16000100
+            ],
+            "SkillLevel": [
+                5,
+                5,
+                5,
+                5,
+                5,
+                5
+            ],
+            "AppearanceID": 1222801
+        },
+        {
+            "key": 1329,
+            "TrialHeroID": 1329,
+            "UnitID": 1019,
+            "HeroLevel": 50,
+            "HeroStars": 15,
+            "ArtifactStar": 4,
+            "ArtifactLevel": 15,
+            "WeaponGems": [
+                1251136
+            ],
+            "EquipGroupID": [
+                1240151,
+                1240152,
+                1240153,
+                1240154,
+                1240155,
+                1240156
+            ],
+            "EquipAttrID": [
+                16151101,
+                16151108,
+                16151109,
+                16151110,
+                16151111,
+                16151112
+            ],
+            "SkillLevel": [
+                5,
+                5,
+                5,
+                5,
+                5,
+                5
+            ],
+            "AppearanceID": 1221901
+        },
+        {
+            "key": 1330,
+            "TrialHeroID": 1330,
+            "UnitID": 1014,
+            "HeroLevel": 50,
+            "HeroStars": 15,
+            "ArtifactStar": 4,
+            "ArtifactLevel": 15,
+            "WeaponGems": [
+                1251136
+            ],
+            "EquipGroupID": [
+                1240151,
+                1240152,
+                1240153,
+                1240154,
+                1240155,
+                1240156
+            ],
+            "EquipAttrID": [
+                16151101,
+                16151113,
+                16151114,
+                16151115,
+                16151116,
+                16151117
+            ],
+            "SkillLevel": [
+                5,
+                5,
+                5,
+                5,
+                5,
+                5
+            ],
+            "AppearanceID": 1221401
+        },
+        {
+            "key": 1331,
+            "TrialHeroID": 1331,
+            "UnitID": 1031,
+            "HeroLevel": 50,
+            "HeroStars": 15,
+            "ArtifactStar": 4,
+            "ArtifactLevel": 15,
+            "WeaponGems": [
+                1251016
+            ],
+            "EquipGroupID": [
+                1240001,
+                1240002,
+                1240003,
+                1240004,
+                1240005,
+                1240006
+            ],
+            "EquipAttrID": [
+                16151101,
+                16151108,
+                16151109,
+                16151110,
+                16151111,
+                16151112
+            ],
+            "SkillLevel": [
+                5,
+                5,
+                5,
+                5,
+                5,
+                5,
+                5,
+                5,
+                5,
+                5,
+                5,
+                5
+            ],
+            "AppearanceID": 1223101
+        },
+        {
+            "key": 1332,
+            "TrialHeroID": 1332,
+            "UnitID": 1012,
+            "HeroLevel": 50,
+            "HeroStars": 15,
+            "ArtifactStar": 4,
+            "ArtifactLevel": 15,
+            "WeaponGems": [
+                1251136
+            ],
+            "EquipGroupID": [
+                1240151,
+                1240152,
+                1240153,
+                1240154,
+                1240155,
+                1240156
+            ],
+            "EquipAttrID": [
+                16151101,
+                16151118,
+                16151119,
+                16151120,
+                16151121,
+                16151122
+            ],
+            "SkillLevel": [
+                5,
+                5,
+                5,
+                5,
+                5,
+                5
+            ],
+            "AppearanceID": 1221201
+        },
+        {
+            "key": 1333,
+            "TrialHeroID": 1333,
+            "UnitID": 1014,
+            "HeroLevel": 70,
+            "HeroStars": 15,
+            "ArtifactStar": 4,
+            "ArtifactLevel": 15,
+            "WeaponGems": [
+                1251096
+            ],
+            "EquipGroupID": [
+                1240181,
+                1240182,
+                1240183,
+                1240184,
+                1240185,
+                1240186
+            ],
+            "EquipAttrID": [
+                16151101,
+                16151113,
+                16151114,
+                16151115,
+                16151116,
+                16151117
+            ],
+            "SkillLevel": [
+                5,
+                5,
+                5,
+                5,
+                5,
+                5
+            ],
+            "AppearanceID": 1221401
+        },
+        {
+            "key": 1334,
+            "TrialHeroID": 1334,
+            "UnitID": 1016,
+            "HeroLevel": 70,
+            "HeroStars": 15,
+            "ArtifactStar": 4,
+            "ArtifactLevel": 15,
+            "WeaponGems": [
+                1251096
+            ],
+            "EquipGroupID": [
+                1240181,
+                1240182,
+                1240183,
+                1240184,
+                1240185,
+                1240186
+            ],
+            "EquipAttrID": [
+                16151101,
+                16151118,
+                16151119,
+                16151120,
+                16151121,
+                16151122
+            ],
+            "SkillLevel": [
+                5,
+                5,
+                5,
+                5,
+                5,
+                5
+            ],
+            "AppearanceID": 1221601
+        },
+        {
+            "key": 1335,
+            "TrialHeroID": 1335,
+            "UnitID": 1004,
+            "HeroLevel": 70,
+            "HeroStars": 15,
+            "ArtifactStar": 4,
+            "ArtifactLevel": 15,
+            "WeaponGems": [
+                1251096
+            ],
+            "EquipGroupID": [
+                1240181,
+                1240182,
+                1240183,
+                1240184,
+                1240185,
+                1240186
+            ],
+            "EquipAttrID": [
+                16151101,
+                16151108,
+                16151109,
+                16151110,
+                16151111,
+                16151112
+            ],
+            "SkillLevel": [
+                5,
+                5,
+                5,
+                5,
+                5,
+                5
+            ],
+            "AppearanceID": 1220401
+        },
+        {
+            "key": 1336,
+            "TrialHeroID": 1336,
+            "UnitID": 1035,
+            "HeroLevel": 20,
+            "HeroStars": 10,
+            "ArtifactStar": 3,
+            "EquipGroupID": [
+                1240001,
+                1240002,
+                1240003,
+                1240004,
+                1240005,
+                1240006
+            ],
+            "EquipAttrID": [
+                14000100,
+                14000100,
+                14000100,
+                14000100,
+                14000100,
+                14000100
+            ],
+            "SkillLevel": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "AppearanceID": 1223501
+        },
+        {
+            "key": 1337,
+            "TrialHeroID": 1337,
+            "UnitID": 1003,
+            "HeroLevel": 1,
+            "HeroStars": 11,
+            "ArtifactStar": 5,
+            "ArtifactLevel": 20,
+            "EquipGroupID": [
+                1240001,
+                1240002,
+                1240003,
+                1240004,
+                1240005,
+                1240006
+            ],
+            "SkillLevel": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "AppearanceID": 1220301
+        },
+        {
+            "key": 1338,
+            "TrialHeroID": 1338,
+            "UnitID": 1003,
+            "HeroLevel": 1,
+            "HeroStars": 46,
+            "ArtifactStar": 6,
+            "ArtifactLevel": 20,
+            "EquipGroupID": [
+                1240001,
+                1240002,
+                1240003,
+                1240004,
+                1240005,
+                1240006
+            ],
+            "SkillLevel": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "AppearanceID": 1220301
+        },
+        {
+            "key": 1339,
+            "TrialHeroID": 1339,
+            "UnitID": 1311,
+            "HeroLevel": 50,
+            "HeroStars": 15,
+            "ArtifactStar": 4,
+            "ArtifactLevel": 15,
+            "EquipGroupID": [
+                1240001,
+                1240002,
+                1240003,
+                1240004,
+                1240005,
+                1240006
+            ],
+            "EquipAttrID": [
+                16151101,
+                16000100,
+                16000100,
+                16000100,
+                16000100,
+                16000100
+            ],
+            "SkillLevel": [
+                5,
+                5,
+                5,
+                5,
+                5,
+                5
+            ],
+            "AppearanceID": 1223901
+        }
+    ]
+}

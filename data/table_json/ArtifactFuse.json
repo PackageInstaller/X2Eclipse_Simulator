@@ -1,0 +1,825 @@
+{
+    "table": "ArtifactFuse",
+    "key_type": "int",
+    "columns": [
+        "FuseID",
+        "ProfEnum",
+        "HeroStage",
+        "AttrRate",
+        "MaxAttrRate",
+        "AdvancedItem",
+        "AdvancedItemNum",
+        "FuseValue",
+        "AdvancedConsume",
+        "FuseItem",
+        "FuseItemNum",
+        "FuseConsume",
+        "HoleIsOpen"
+    ],
+    "rows": [
+        {
+            "key": 1292785156096,
+            "ProfEnum": 301,
+            "HeroStage": 1,
+            "FuseValue": 100,
+            "FuseConsume": 20000,
+            "HoleIsOpen": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                2
+            ]
+        },
+        {
+            "key": 1292785156097,
+            "FuseID": 1,
+            "ProfEnum": 301,
+            "HeroStage": 3,
+            "AttrRate": 1000,
+            "MaxAttrRate": 2000,
+            "AdvancedItem": [
+                1238100
+            ],
+            "AdvancedItemNum": [
+                6
+            ],
+            "FuseValue": 10,
+            "AdvancedConsume": 1000,
+            "FuseItem": [
+                1238047
+            ],
+            "FuseItemNum": [
+                12
+            ],
+            "FuseConsume": 50000,
+            "HoleIsOpen": [
+                1,
+                0,
+                0,
+                0,
+                0,
+                2
+            ]
+        },
+        {
+            "key": 1292785156098,
+            "FuseID": 2,
+            "ProfEnum": 301,
+            "HeroStage": 5,
+            "AttrRate": 2500,
+            "MaxAttrRate": 4000,
+            "AdvancedItem": [
+                1238101
+            ],
+            "AdvancedItemNum": [
+                6
+            ],
+            "FuseValue": 10,
+            "AdvancedConsume": 3000,
+            "FuseItem": [
+                1238048,
+                1238054
+            ],
+            "FuseItemNum": [
+                12,
+                12
+            ],
+            "FuseConsume": 100000,
+            "HoleIsOpen": [
+                1,
+                1,
+                0,
+                0,
+                0,
+                2
+            ]
+        },
+        {
+            "key": 1292785156099,
+            "FuseID": 3,
+            "ProfEnum": 301,
+            "HeroStage": 8,
+            "AttrRate": 5600,
+            "MaxAttrRate": 8000,
+            "AdvancedItem": [
+                1238102
+            ],
+            "AdvancedItemNum": [
+                6
+            ],
+            "FuseValue": 5,
+            "AdvancedConsume": 12000,
+            "FuseItem": [
+                1238049,
+                1238058
+            ],
+            "FuseItemNum": [
+                18,
+                18
+            ],
+            "FuseConsume": 200000,
+            "HoleIsOpen": [
+                1,
+                1,
+                1,
+                0,
+                0,
+                2
+            ]
+        },
+        {
+            "key": 1292785156100,
+            "FuseID": 4,
+            "ProfEnum": 301,
+            "HeroStage": 11,
+            "AttrRate": 9000,
+            "MaxAttrRate": 14000,
+            "AdvancedItem": [
+                1238103
+            ],
+            "AdvancedItemNum": [
+                6
+            ],
+            "FuseValue": 5,
+            "AdvancedConsume": 20000,
+            "FuseItem": [
+                1238050,
+                1238062
+            ],
+            "FuseItemNum": [
+                24,
+                24
+            ],
+            "FuseConsume": 320000,
+            "HoleIsOpen": [
+                1,
+                1,
+                1,
+                1,
+                0,
+                2
+            ]
+        },
+        {
+            "key": 1292785156101,
+            "FuseID": 5,
+            "ProfEnum": 301,
+            "HeroStage": 46,
+            "AttrRate": 15500,
+            "MaxAttrRate": 23000,
+            "AdvancedItem": [
+                1238104
+            ],
+            "AdvancedItemNum": [
+                6
+            ],
+            "FuseValue": 5,
+            "AdvancedConsume": 24000,
+            "FuseItem": [
+                1238051,
+                1238066
+            ],
+            "FuseItemNum": [
+                30,
+                30
+            ],
+            "FuseConsume": 480000,
+            "HoleIsOpen": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                2
+            ]
+        },
+        {
+            "key": 1292785156102,
+            "FuseID": 6,
+            "ProfEnum": 301,
+            "AttrRate": 25000,
+            "MaxAttrRate": 36000,
+            "AdvancedItem": [
+                1238105
+            ],
+            "AdvancedItemNum": [
+                6
+            ],
+            "FuseValue": 5,
+            "AdvancedConsume": 30000,
+            "HoleIsOpen": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                2
+            ]
+        },
+        {
+            "key": 1297080123392,
+            "ProfEnum": 302,
+            "HeroStage": 1,
+            "FuseValue": 100,
+            "FuseConsume": 20000,
+            "HoleIsOpen": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                2
+            ]
+        },
+        {
+            "key": 1297080123393,
+            "FuseID": 1,
+            "ProfEnum": 302,
+            "HeroStage": 3,
+            "AttrRate": 1000,
+            "MaxAttrRate": 2000,
+            "AdvancedItem": [
+                1238100
+            ],
+            "AdvancedItemNum": [
+                6
+            ],
+            "FuseValue": 10,
+            "AdvancedConsume": 1000,
+            "FuseItem": [
+                1238047
+            ],
+            "FuseItemNum": [
+                12
+            ],
+            "FuseConsume": 50000,
+            "HoleIsOpen": [
+                1,
+                0,
+                0,
+                0,
+                0,
+                2
+            ]
+        },
+        {
+            "key": 1297080123394,
+            "FuseID": 2,
+            "ProfEnum": 302,
+            "HeroStage": 5,
+            "AttrRate": 2500,
+            "MaxAttrRate": 4000,
+            "AdvancedItem": [
+                1238101
+            ],
+            "AdvancedItemNum": [
+                6
+            ],
+            "FuseValue": 10,
+            "AdvancedConsume": 3000,
+            "FuseItem": [
+                1238048,
+                1238053
+            ],
+            "FuseItemNum": [
+                12,
+                12
+            ],
+            "FuseConsume": 100000,
+            "HoleIsOpen": [
+                1,
+                1,
+                0,
+                0,
+                0,
+                2
+            ]
+        },
+        {
+            "key": 1297080123395,
+            "FuseID": 3,
+            "ProfEnum": 302,
+            "HeroStage": 8,
+            "AttrRate": 5600,
+            "MaxAttrRate": 8000,
+            "AdvancedItem": [
+                1238102
+            ],
+            "AdvancedItemNum": [
+                6
+            ],
+            "FuseValue": 5,
+            "AdvancedConsume": 12000,
+            "FuseItem": [
+                1238049,
+                1238057
+            ],
+            "FuseItemNum": [
+                18,
+                18
+            ],
+            "FuseConsume": 200000,
+            "HoleIsOpen": [
+                1,
+                1,
+                1,
+                0,
+                0,
+                2
+            ]
+        },
+        {
+            "key": 1297080123396,
+            "FuseID": 4,
+            "ProfEnum": 302,
+            "HeroStage": 11,
+            "AttrRate": 9000,
+            "MaxAttrRate": 14000,
+            "AdvancedItem": [
+                1238103
+            ],
+            "AdvancedItemNum": [
+                6
+            ],
+            "FuseValue": 5,
+            "AdvancedConsume": 20000,
+            "FuseItem": [
+                1238050,
+                1238061
+            ],
+            "FuseItemNum": [
+                24,
+                24
+            ],
+            "FuseConsume": 320000,
+            "HoleIsOpen": [
+                1,
+                1,
+                1,
+                1,
+                0,
+                2
+            ]
+        },
+        {
+            "key": 1297080123397,
+            "FuseID": 5,
+            "ProfEnum": 302,
+            "HeroStage": 46,
+            "AttrRate": 15500,
+            "MaxAttrRate": 23000,
+            "AdvancedItem": [
+                1238104
+            ],
+            "AdvancedItemNum": [
+                6
+            ],
+            "FuseValue": 5,
+            "AdvancedConsume": 24000,
+            "FuseItem": [
+                1238051,
+                1238065
+            ],
+            "FuseItemNum": [
+                30,
+                30
+            ],
+            "FuseConsume": 480000,
+            "HoleIsOpen": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                2
+            ]
+        },
+        {
+            "key": 1297080123398,
+            "FuseID": 6,
+            "ProfEnum": 302,
+            "AttrRate": 25000,
+            "MaxAttrRate": 36000,
+            "AdvancedItem": [
+                1238105
+            ],
+            "AdvancedItemNum": [
+                6
+            ],
+            "FuseValue": 5,
+            "AdvancedConsume": 30000,
+            "HoleIsOpen": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                2
+            ]
+        },
+        {
+            "key": 1301375090688,
+            "ProfEnum": 303,
+            "HeroStage": 1,
+            "FuseValue": 100,
+            "FuseConsume": 20000,
+            "HoleIsOpen": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                2
+            ]
+        },
+        {
+            "key": 1301375090689,
+            "FuseID": 1,
+            "ProfEnum": 303,
+            "HeroStage": 3,
+            "AttrRate": 1000,
+            "MaxAttrRate": 2000,
+            "AdvancedItem": [
+                1238100
+            ],
+            "AdvancedItemNum": [
+                6
+            ],
+            "FuseValue": 10,
+            "AdvancedConsume": 1000,
+            "FuseItem": [
+                1238047
+            ],
+            "FuseItemNum": [
+                12
+            ],
+            "FuseConsume": 50000,
+            "HoleIsOpen": [
+                1,
+                0,
+                0,
+                0,
+                0,
+                2
+            ]
+        },
+        {
+            "key": 1301375090690,
+            "FuseID": 2,
+            "ProfEnum": 303,
+            "HeroStage": 5,
+            "AttrRate": 2500,
+            "MaxAttrRate": 4000,
+            "AdvancedItem": [
+                1238101
+            ],
+            "AdvancedItemNum": [
+                6
+            ],
+            "FuseValue": 10,
+            "AdvancedConsume": 3000,
+            "FuseItem": [
+                1238048,
+                1238052
+            ],
+            "FuseItemNum": [
+                12,
+                12
+            ],
+            "FuseConsume": 100000,
+            "HoleIsOpen": [
+                1,
+                1,
+                0,
+                0,
+                0,
+                2
+            ]
+        },
+        {
+            "key": 1301375090691,
+            "FuseID": 3,
+            "ProfEnum": 303,
+            "HeroStage": 8,
+            "AttrRate": 5600,
+            "MaxAttrRate": 8000,
+            "AdvancedItem": [
+                1238102
+            ],
+            "AdvancedItemNum": [
+                6
+            ],
+            "FuseValue": 5,
+            "AdvancedConsume": 12000,
+            "FuseItem": [
+                1238049,
+                1238056
+            ],
+            "FuseItemNum": [
+                18,
+                18
+            ],
+            "FuseConsume": 200000,
+            "HoleIsOpen": [
+                1,
+                1,
+                1,
+                0,
+                0,
+                2
+            ]
+        },
+        {
+            "key": 1301375090692,
+            "FuseID": 4,
+            "ProfEnum": 303,
+            "HeroStage": 11,
+            "AttrRate": 9000,
+            "MaxAttrRate": 14000,
+            "AdvancedItem": [
+                1238103
+            ],
+            "AdvancedItemNum": [
+                6
+            ],
+            "FuseValue": 5,
+            "AdvancedConsume": 20000,
+            "FuseItem": [
+                1238050,
+                1238060
+            ],
+            "FuseItemNum": [
+                24,
+                24
+            ],
+            "FuseConsume": 320000,
+            "HoleIsOpen": [
+                1,
+                1,
+                1,
+                1,
+                0,
+                2
+            ]
+        },
+        {
+            "key": 1301375090693,
+            "FuseID": 5,
+            "ProfEnum": 303,
+            "HeroStage": 46,
+            "AttrRate": 15500,
+            "MaxAttrRate": 23000,
+            "AdvancedItem": [
+                1238104
+            ],
+            "AdvancedItemNum": [
+                6
+            ],
+            "FuseValue": 5,
+            "AdvancedConsume": 24000,
+            "FuseItem": [
+                1238051,
+                1238064
+            ],
+            "FuseItemNum": [
+                30,
+                30
+            ],
+            "FuseConsume": 480000,
+            "HoleIsOpen": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                2
+            ]
+        },
+        {
+            "key": 1301375090694,
+            "FuseID": 6,
+            "ProfEnum": 303,
+            "AttrRate": 25000,
+            "MaxAttrRate": 36000,
+            "AdvancedItem": [
+                1238105
+            ],
+            "AdvancedItemNum": [
+                6
+            ],
+            "FuseValue": 5,
+            "AdvancedConsume": 30000,
+            "HoleIsOpen": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                2
+            ]
+        },
+        {
+            "key": 1305670057984,
+            "ProfEnum": 304,
+            "HeroStage": 1,
+            "FuseValue": 100,
+            "FuseConsume": 20000,
+            "HoleIsOpen": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                2
+            ]
+        },
+        {
+            "key": 1305670057985,
+            "FuseID": 1,
+            "ProfEnum": 304,
+            "HeroStage": 3,
+            "AttrRate": 1000,
+            "MaxAttrRate": 2000,
+            "AdvancedItem": [
+                1238100
+            ],
+            "AdvancedItemNum": [
+                6
+            ],
+            "FuseValue": 10,
+            "AdvancedConsume": 1000,
+            "FuseItem": [
+                1238047
+            ],
+            "FuseItemNum": [
+                12
+            ],
+            "FuseConsume": 50000,
+            "HoleIsOpen": [
+                1,
+                0,
+                0,
+                0,
+                0,
+                2
+            ]
+        },
+        {
+            "key": 1305670057986,
+            "FuseID": 2,
+            "ProfEnum": 304,
+            "HeroStage": 5,
+            "AttrRate": 2500,
+            "MaxAttrRate": 4000,
+            "AdvancedItem": [
+                1238101
+            ],
+            "AdvancedItemNum": [
+                6
+            ],
+            "FuseValue": 10,
+            "AdvancedConsume": 3000,
+            "FuseItem": [
+                1238048,
+                1238055
+            ],
+            "FuseItemNum": [
+                12,
+                12
+            ],
+            "FuseConsume": 100000,
+            "HoleIsOpen": [
+                1,
+                1,
+                0,
+                0,
+                0,
+                2
+            ]
+        },
+        {
+            "key": 1305670057987,
+            "FuseID": 3,
+            "ProfEnum": 304,
+            "HeroStage": 8,
+            "AttrRate": 5600,
+            "MaxAttrRate": 8000,
+            "AdvancedItem": [
+                1238102
+            ],
+            "AdvancedItemNum": [
+                6
+            ],
+            "FuseValue": 5,
+            "AdvancedConsume": 12000,
+            "FuseItem": [
+                1238049,
+                1238059
+            ],
+            "FuseItemNum": [
+                18,
+                18
+            ],
+            "FuseConsume": 200000,
+            "HoleIsOpen": [
+                1,
+                1,
+                1,
+                0,
+                0,
+                2
+            ]
+        },
+        {
+            "key": 1305670057988,
+            "FuseID": 4,
+            "ProfEnum": 304,
+            "HeroStage": 11,
+            "AttrRate": 9000,
+            "MaxAttrRate": 14000,
+            "AdvancedItem": [
+                1238103
+            ],
+            "AdvancedItemNum": [
+                6
+            ],
+            "FuseValue": 5,
+            "AdvancedConsume": 20000,
+            "FuseItem": [
+                1238050,
+                1238063
+            ],
+            "FuseItemNum": [
+                24,
+                24
+            ],
+            "FuseConsume": 320000,
+            "HoleIsOpen": [
+                1,
+                1,
+                1,
+                1,
+                0,
+                2
+            ]
+        },
+        {
+            "key": 1305670057989,
+            "FuseID": 5,
+            "ProfEnum": 304,
+            "HeroStage": 46,
+            "AttrRate": 15500,
+            "MaxAttrRate": 23000,
+            "AdvancedItem": [
+                1238104
+            ],
+            "AdvancedItemNum": [
+                6
+            ],
+            "FuseValue": 5,
+            "AdvancedConsume": 24000,
+            "FuseItem": [
+                1238051,
+                1238067
+            ],
+            "FuseItemNum": [
+                30,
+                30
+            ],
+            "FuseConsume": 480000,
+            "HoleIsOpen": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                2
+            ]
+        },
+        {
+            "key": 1305670057990,
+            "FuseID": 6,
+            "ProfEnum": 304,
+            "AttrRate": 25000,
+            "MaxAttrRate": 36000,
+            "AdvancedItem": [
+                1238105
+            ],
+            "AdvancedItemNum": [
+                6
+            ],
+            "FuseValue": 5,
+            "AdvancedConsume": 30000,
+            "HoleIsOpen": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                2
+            ]
+        }
+    ]
+}

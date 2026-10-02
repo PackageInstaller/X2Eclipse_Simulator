@@ -1,0 +1,1 @@
+{"table":"GuildLevel","key_type":"int","columns":["Level","Exp","MemberNum","DeputyNum","DailyScore","DailyAward"],"rows":[{"key":1,"Level":1,"MemberNum":30,"DeputyNum":1,"DailyScore":300000,"DailyAward":778202}]}

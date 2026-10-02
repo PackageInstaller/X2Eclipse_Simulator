@@ -1,0 +1,382 @@
+{
+    "table": "BattlepassArtifact",
+    "key_type": "int",
+    "columns": [
+        "ArtifactSlotID",
+        "ArtifactEffect",
+        "AttribProbability",
+        "ArtifactEffectValue",
+        "ValueProbability",
+        "CostItem",
+        "CostNum",
+        "StarLevel",
+        "JewelEffect1",
+        "JewelEffect2"
+    ],
+    "rows": [
+        {
+            "key": 1,
+            "ArtifactSlotID": 1,
+            "ArtifactEffect": [
+                145,
+                146,
+                147,
+                148
+            ],
+            "AttribProbability": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "ArtifactEffectValue": [
+                50,
+                57,
+                64,
+                71,
+                78,
+                85,
+                92,
+                99,
+                106,
+                113,
+                120
+            ],
+            "ValueProbability": [
+                15,
+                17,
+                20,
+                24,
+                28,
+                20,
+                13,
+                10,
+                8,
+                6,
+                5
+            ],
+            "CostItem": 1238106,
+            "CostNum": 2,
+            "StarLevel": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6
+            ],
+            "JewelEffect1": [
+                0,
+                0,
+                1,
+                3,
+                7,
+                12
+            ],
+            "JewelEffect2": [
+                0,
+                0,
+                0,
+                8,
+                21,
+                51
+            ]
+        },
+        {
+            "key": 2,
+            "ArtifactSlotID": 2,
+            "ArtifactEffect": [
+                145,
+                146,
+                147,
+                148
+            ],
+            "AttribProbability": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "ArtifactEffectValue": [
+                70,
+                78,
+                86,
+                94,
+                102,
+                110,
+                118,
+                126,
+                134,
+                142,
+                150,
+                158
+            ],
+            "ValueProbability": [
+                15,
+                17,
+                20,
+                24,
+                28,
+                20,
+                13,
+                10,
+                8,
+                6,
+                5,
+                5
+            ],
+            "CostItem": 1238107,
+            "CostNum": 2,
+            "StarLevel": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6
+            ],
+            "JewelEffect1": [
+                0,
+                0,
+                1,
+                3,
+                7,
+                12
+            ],
+            "JewelEffect2": [
+                0,
+                0,
+                0,
+                8,
+                21,
+                51
+            ]
+        },
+        {
+            "key": 3,
+            "ArtifactSlotID": 3,
+            "ArtifactEffect": [
+                145,
+                146,
+                147,
+                148
+            ],
+            "AttribProbability": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "ArtifactEffectValue": [
+                60,
+                71,
+                82,
+                93,
+                104,
+                115,
+                126,
+                137,
+                148,
+                159,
+                170,
+                181,
+                192,
+                203
+            ],
+            "ValueProbability": [
+                15,
+                17,
+                20,
+                24,
+                28,
+                20,
+                13,
+                10,
+                8,
+                7,
+                6,
+                5,
+                5,
+                5
+            ],
+            "CostItem": 1238108,
+            "CostNum": 3,
+            "StarLevel": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6
+            ],
+            "JewelEffect1": [
+                0,
+                0,
+                1,
+                3,
+                7,
+                12
+            ],
+            "JewelEffect2": [
+                0,
+                0,
+                0,
+                8,
+                21,
+                51
+            ]
+        },
+        {
+            "key": 4,
+            "ArtifactSlotID": 4,
+            "ArtifactEffect": [
+                145,
+                146,
+                147,
+                148
+            ],
+            "AttribProbability": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "ArtifactEffectValue": [
+                80,
+                91,
+                102,
+                113,
+                124,
+                135,
+                146,
+                157,
+                168,
+                179,
+                190,
+                201,
+                212,
+                223,
+                234
+            ],
+            "ValueProbability": [
+                15,
+                17,
+                20,
+                24,
+                28,
+                20,
+                13,
+                10,
+                8,
+                7,
+                6,
+                5,
+                5,
+                5,
+                4
+            ],
+            "CostItem": 1238109,
+            "CostNum": 3,
+            "StarLevel": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6
+            ],
+            "JewelEffect1": [
+                0,
+                0,
+                1,
+                3,
+                7,
+                12
+            ],
+            "JewelEffect2": [
+                0,
+                0,
+                0,
+                8,
+                21,
+                51
+            ]
+        },
+        {
+            "key": 5,
+            "ArtifactSlotID": 5,
+            "ArtifactEffect": [
+                145,
+                146,
+                147,
+                148
+            ],
+            "AttribProbability": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "ArtifactEffectValue": [
+                80,
+                94,
+                108,
+                122,
+                136,
+                150,
+                164,
+                178,
+                192,
+                206,
+                220,
+                234,
+                248,
+                262,
+                276
+            ],
+            "ValueProbability": [
+                15,
+                17,
+                20,
+                24,
+                28,
+                20,
+                13,
+                10,
+                8,
+                7,
+                6,
+                5,
+                5,
+                5,
+                4
+            ],
+            "CostItem": 1238110,
+            "CostNum": 3,
+            "StarLevel": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6
+            ],
+            "JewelEffect1": [
+                0,
+                0,
+                1,
+                3,
+                7,
+                12
+            ],
+            "JewelEffect2": [
+                0,
+                0,
+                0,
+                8,
+                21,
+                51
+            ]
+        }
+    ]
+}

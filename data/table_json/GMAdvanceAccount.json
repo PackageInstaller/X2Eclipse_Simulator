@@ -1,0 +1,348 @@
+{
+    "table": "GMAdvanceAccount",
+    "key_type": "string",
+    "columns": [],
+    "rows": [
+        {
+            "key": "Add1201xxx",
+            "_raw": {
+                "f1": [
+                    "Add1201xxx"
+                ],
+                "f2": [
+                    "500"
+                ]
+            }
+        },
+        {
+            "key": "Add1202080To1202084",
+            "_raw": {
+                "f1": [
+                    "Add1202080To1202084"
+                ],
+                "f2": [
+                    "2000"
+                ]
+            }
+        },
+        {
+            "key": "Add1202700",
+            "_raw": {
+                "f1": [
+                    "Add1202700"
+                ],
+                "f2": [
+                    "1000"
+                ]
+            }
+        },
+        {
+            "key": "Add1237801To1237815",
+            "_raw": {
+                "f1": [
+                    "Add1237801To1237815"
+                ],
+                "f2": [
+                    "1000"
+                ]
+            }
+        },
+        {
+            "key": "Add1237831To1237840",
+            "_raw": {
+                "f1": [
+                    "Add1237831To1237840"
+                ],
+                "f2": [
+                    "1000"
+                ]
+            }
+        },
+        {
+            "key": "Add1237901",
+            "_raw": {
+                "f1": [
+                    "Add1237901"
+                ],
+                "f2": [
+                    "6"
+                ]
+            }
+        },
+        {
+            "key": "Add1237902",
+            "_raw": {
+                "f1": [
+                    "Add1237902"
+                ],
+                "f2": [
+                    "3"
+                ]
+            }
+        },
+        {
+            "key": "Add1237904To1237906",
+            "_raw": {
+                "f1": [
+                    "Add1237904To1237906"
+                ],
+                "f2": [
+                    "1000"
+                ]
+            }
+        },
+        {
+            "key": "Add1237906",
+            "_raw": {
+                "f1": [
+                    "Add1237906"
+                ],
+                "f2": [
+                    "200000"
+                ]
+            }
+        },
+        {
+            "key": "Add1237907",
+            "_raw": {
+                "f1": [
+                    "Add1237907"
+                ],
+                "f2": [
+                    "500000"
+                ]
+            }
+        },
+        {
+            "key": "Add1238047To1238067",
+            "_raw": {
+                "f1": [
+                    "Add1238047To1238067"
+                ],
+                "f2": [
+                    "2000"
+                ]
+            }
+        },
+        {
+            "key": "Add1238100To1238105",
+            "_raw": {
+                "f1": [
+                    "Add1238100To1238105"
+                ],
+                "f2": [
+                    "3000"
+                ]
+            }
+        },
+        {
+            "key": "Add1250011To1250033",
+            "_raw": {
+                "f1": [
+                    "Add1250011To1250033"
+                ],
+                "f2": [
+                    "1000"
+                ]
+            }
+        },
+        {
+            "key": "ArtifactStar",
+            "_raw": {
+                "f1": [
+                    "ArtifactStar"
+                ],
+                "f2": [
+                    "4"
+                ]
+            }
+        },
+        {
+            "key": "Base01Level",
+            "_raw": {
+                "f1": [
+                    "Base01Level"
+                ],
+                "f2": [
+                    "20"
+                ]
+            }
+        },
+        {
+            "key": "Base02Level",
+            "_raw": {
+                "f1": [
+                    "Base02Level"
+                ],
+                "f2": [
+                    "20"
+                ]
+            }
+        },
+        {
+            "key": "Base03Level",
+            "_raw": {
+                "f1": [
+                    "Base03Level"
+                ],
+                "f2": [
+                    "20"
+                ]
+            }
+        },
+        {
+            "key": "Base04Level",
+            "_raw": {
+                "f1": [
+                    "Base04Level"
+                ],
+                "f2": [
+                    "20"
+                ]
+            }
+        },
+        {
+            "key": "Base05Level",
+            "_raw": {
+                "f1": [
+                    "Base05Level"
+                ],
+                "f2": [
+                    "20"
+                ]
+            }
+        },
+        {
+            "key": "Base06Level",
+            "_raw": {
+                "f1": [
+                    "Base06Level"
+                ],
+                "f2": [
+                    "20"
+                ]
+            }
+        },
+        {
+            "key": "HeroLevel",
+            "_raw": {
+                "f1": [
+                    "HeroLevel"
+                ],
+                "f2": [
+                    "50"
+                ]
+            }
+        },
+        {
+            "key": "HeroStar",
+            "_raw": {
+                "f1": [
+                    "HeroStar"
+                ],
+                "f2": [
+                    "10"
+                ]
+            }
+        },
+        {
+            "key": "PlayerLevel",
+            "_raw": {
+                "f1": [
+                    "PlayerLevel"
+                ],
+                "f2": [
+                    "70"
+                ]
+            }
+        },
+        {
+            "key": "SkillLevel",
+            "_raw": {
+                "f1": [
+                    "SkillLevel"
+                ],
+                "f2": [
+                    "3"
+                ]
+            }
+        },
+        {
+            "key": "UnlockSection",
+            "_raw": {
+                "f1": [
+                    "UnlockSection"
+                ],
+                "f2": [
+                    "2110408"
+                ]
+            }
+        },
+        {
+            "key": "wonder01Level",
+            "_raw": {
+                "f1": [
+                    "wonder01Level"
+                ],
+                "f2": [
+                    "11"
+                ]
+            }
+        },
+        {
+            "key": "wonder02Level",
+            "_raw": {
+                "f1": [
+                    "wonder02Level"
+                ],
+                "f2": [
+                    "11"
+                ]
+            }
+        },
+        {
+            "key": "wonder03Level",
+            "_raw": {
+                "f1": [
+                    "wonder03Level"
+                ],
+                "f2": [
+                    "11"
+                ]
+            }
+        },
+        {
+            "key": "wonder04Level",
+            "_raw": {
+                "f1": [
+                    "wonder04Level"
+                ],
+                "f2": [
+                    "11"
+                ]
+            }
+        },
+        {
+            "key": "wonder05Level",
+            "_raw": {
+                "f1": [
+                    "wonder05Level"
+                ],
+                "f2": [
+                    "11"
+                ]
+            }
+        },
+        {
+            "key": "wonder06Level",
+            "_raw": {
+                "f1": [
+                    "wonder06Level"
+                ],
+                "f2": [
+                    "11"
+                ]
+            }
+        }
+    ]
+}

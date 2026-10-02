@@ -1,0 +1,1863 @@
+{
+  "format": "X2DATA1",
+  "source": "数据表/table",
+  "count": 265,
+  "skipped": 0,
+  "entries": [
+    {
+      "name": "AccountBuff",
+      "original_size": 8106,
+      "size": 8078,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "75cacd48549e4aadb3315a9ee57676c812b24e41830b38a4b02a722101b4e031"
+    },
+    {
+      "name": "Achievement",
+      "original_size": 13288,
+      "size": 13260,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "a33808106eb6e831394f19d09536719239b8165efc056d96548b90dc6c41cd54"
+    },
+    {
+      "name": "AchievementCondition",
+      "original_size": 6009,
+      "size": 5981,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "328f590e1b2791e3182e3781ec0beb48d1f4f449faf1499d9c51bc8d45265039"
+    },
+    {
+      "name": "AchievementConditionLine",
+      "original_size": 1498,
+      "size": 1470,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "711509ce7a0191f5868c7a8a1c345756c48e1b0bdee1ad214a0ef797db911766"
+    },
+    {
+      "name": "ActionEnum",
+      "original_size": 1863,
+      "size": 1835,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "688500195f0ea677ee43ae2b0b7228b529357e7f5bd75a31b40fd34557eb2907"
+    },
+    {
+      "name": "Activity",
+      "original_size": 128,
+      "size": 45,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "a218568e80054d8d9433703b22a618016f7f7a6c1fe166a3e9bf5c74dde7bb22"
+    },
+    {
+      "name": "ActivityBox",
+      "original_size": 4468,
+      "size": 4440,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "f876956209c1985c27025e4836399d5169807bec982c50214bbab064e7bd3b72"
+    },
+    {
+      "name": "ActivityBoxGoods",
+      "original_size": 11417,
+      "size": 11389,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "733310973b4e37f9588e4eea35892676a54344f02f248603fe607316a4b05326"
+    },
+    {
+      "name": "ActivityBuilding",
+      "original_size": 1904,
+      "size": 1876,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "837cf0a3b768047a473a36ee0fc27824bec2df269725e6483d99f4a198726e6f"
+    },
+    {
+      "name": "ActivityDungeon",
+      "original_size": 11638,
+      "size": 11610,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "4866b4e88b16c92833c4578793da9594907a285372887f15afeb614a163aeb74"
+    },
+    {
+      "name": "ActivityExchange",
+      "original_size": 128,
+      "size": 23,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "6edee66aba89850242282b69b8121fbcd69c908a1ea97e0d806901982f7222a3"
+    },
+    {
+      "name": "ActivityReal",
+      "original_size": 13165,
+      "size": 13137,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "50305112c3b433323b74ab85daf5e86e2babbe2c3bba1f3dd70633b605255778"
+    },
+    {
+      "name": "ActivityTask",
+      "original_size": 14458,
+      "size": 14430,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "143b32a1d6ed80a36ca258e4bc51ac5163429c537b85def9d97b2764e92d2299"
+    },
+    {
+      "name": "ActivityTaskBox",
+      "original_size": 1022,
+      "size": 994,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "e25bf7b8abcde880f452d6457685a24572d7dd630a6570ccb8dababb7ba123d9"
+    },
+    {
+      "name": "AdventureList",
+      "original_size": 251,
+      "size": 223,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "51cf9a99ca58e18d48c1102f7b8f9147285543134d0f23942f600f92a34923a1"
+    },
+    {
+      "name": "AnswerConfig",
+      "original_size": 48679,
+      "size": 48651,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "7bcb4469892b50772724dd5da18964c870e76e6917e9b6e1fe680b911054d311"
+    },
+    {
+      "name": "Appearance",
+      "original_size": 57615,
+      "size": 57587,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "bbc3d4c9d6e6dfe7f5b36a654c903d398bc7c6c4670f465ef77820d0f803c263"
+    },
+    {
+      "name": "AppearanceShop",
+      "original_size": 3102,
+      "size": 3074,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "3d1558ee40c944b1ac667083a254257be71f27ebaede89095e6ea3d3816b58f7"
+    },
+    {
+      "name": "ArtifactBase",
+      "original_size": 13395,
+      "size": 13367,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "e27f7962cef610358bae3a3f6ae332a73a9274b12aac00bd375bffcbe491dce3"
+    },
+    {
+      "name": "ArtifactFuse",
+      "original_size": 1552,
+      "size": 1524,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "1f3d233c80c24757a13b5820371304065fa37924b531a4d3782e0a899d7b2978"
+    },
+    {
+      "name": "AttribType",
+      "original_size": 3906,
+      "size": 3878,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "339f92ce1499b3e0d63c11eb39b573c3b97379502957eada72529df62df60ffb"
+    },
+    {
+      "name": "BattleFavorability",
+      "original_size": 128,
+      "size": 44,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "13a875422711601239cac2a3789066f8235520d54958ddb11a5a9b1a00ece2b7"
+    },
+    {
+      "name": "Battlepass",
+      "original_size": 1876,
+      "size": 1848,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "b1c3e898abaa9012cc9ec11b3b35e689c907cf951461a8f8c12ed38f0d994c27"
+    },
+    {
+      "name": "BattlepassAchievement",
+      "original_size": 9724,
+      "size": 9696,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "3a76c0a498b394e28939e661703d826c1d9aa741e8ddac36c5dd65e734f98691"
+    },
+    {
+      "name": "BattlepassAchievementCondition",
+      "original_size": 1145,
+      "size": 1117,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "2a5312ccabbc32556036b5746bb2ae88fd0602cbe1e84b8e7da2454b25c8516d"
+    },
+    {
+      "name": "BattlepassArtifact",
+      "original_size": 674,
+      "size": 646,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "8c2763a1b28d1b28ccdd396bfdc4777232f8e06f470a7d2ed2acb7b464df826b"
+    },
+    {
+      "name": "BattlepassAward",
+      "original_size": 248,
+      "size": 220,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "1f5cfe3fa621f8be5a54b2f08f384362050ae6e107585279b862fe6c97adac2e"
+    },
+    {
+      "name": "BattlepassExRankReward",
+      "original_size": 276,
+      "size": 248,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "06b85b3bbefafc4bd589e3566aeb0e9e9133eea2ca11b1e8b232e06bfb76e264"
+    },
+    {
+      "name": "BattlepassLevel",
+      "original_size": 37129,
+      "size": 37101,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "0657580bdd260a577df763c1560578f51e541e7d71bc586f5e0fb6ad3491302f"
+    },
+    {
+      "name": "BattlepassMilestone",
+      "original_size": 516,
+      "size": 488,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "98ea2c967d78c84504469217a7119a79d070595eaa2531b2d5baa467042e6457"
+    },
+    {
+      "name": "BattlepassMiracle",
+      "original_size": 128,
+      "size": 58,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "3530b02e0a4f85ba325c003be69f2e1d887477352ef572cb089e9feffc13ef7c"
+    },
+    {
+      "name": "BattlepassRank",
+      "original_size": 5219,
+      "size": 5191,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "d97bafb65ff8f00600946affcdcdcf0b61eacd7568c4706ef25ac548187a31f2"
+    },
+    {
+      "name": "BattlepassRankReward",
+      "original_size": 2072,
+      "size": 2044,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "9f587e97d9120650c078048a8c41b93d01703118fd7df2f302d877030156475a"
+    },
+    {
+      "name": "BattlepassTalent",
+      "original_size": 733,
+      "size": 705,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "ca62faa6c8f81e0916414c18fd0bd883ba3878029d3d9f943448f656255b2e84"
+    },
+    {
+      "name": "BattlepassTalentGroup",
+      "original_size": 446,
+      "size": 418,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "8ba5d3a323a062b0be6fc72b81dbb995dfa14f657665e9d9e76e0bccb193e2a7"
+    },
+    {
+      "name": "BattlepassTask",
+      "original_size": 4802,
+      "size": 4774,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "a4faa415b4371526e1b18903ec2e79bb65c2302e84843b035dd1d7f91c4b996e"
+    },
+    {
+      "name": "BattlepassUnit",
+      "original_size": 128,
+      "size": 88,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "0ed47982f729d3116ace6af88b19d60613143e839a681f952c1fec3558a1a282"
+    },
+    {
+      "name": "BloodMoonConfig",
+      "original_size": 128,
+      "size": 37,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "5c764a68c6f9c67c4219084d9b69ce607be9effd6d9720dd2ff033487125952e"
+    },
+    {
+      "name": "BloodMoonInfo",
+      "original_size": 2670,
+      "size": 2642,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "970dcf97054038d7094ce03155b0eeed9cfe08c177dd76ee9d40841a91e23985"
+    },
+    {
+      "name": "BloodMoonModule",
+      "original_size": 52189,
+      "size": 52161,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "849b47a3de67f8c42518e3b5baec61fb2e44bcd13b780c8e9f39555261571262"
+    },
+    {
+      "name": "BoxConfig",
+      "original_size": 1426,
+      "size": 1398,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "5954a118e6ddd22aa9915c14c986fb385ef63c87b2328c73f7c5b137d08d2eb0"
+    },
+    {
+      "name": "BrinkConversation",
+      "original_size": 14211,
+      "size": 14183,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "5444c1ddf33da14dd580fc53f1475c77aa2f84af21318ff394cac12d6800a764"
+    },
+    {
+      "name": "BrinkConversationStory",
+      "original_size": 3135,
+      "size": 3107,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "e57c80c774fcb2f888df583e3fa6b484907fda5ad01f815873977af13ff4d313"
+    },
+    {
+      "name": "BubbleTalk",
+      "original_size": 53083,
+      "size": 53055,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "75cce00e5b1c33e7ef105e40650f4c70a1d24741d28f59c8b5d150905f83c044"
+    },
+    {
+      "name": "CallWords",
+      "original_size": 270,
+      "size": 242,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "6adebfa479b31575b3a3e947127588c6318440d09fa06fbfc16a8dd71af2842e"
+    },
+    {
+      "name": "Card",
+      "original_size": 1828,
+      "size": 1800,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "a03a7592f2e5d22d31a1a9a146c84c3dfabfdb6b0d3392e44799b4d1d55de8b8"
+    },
+    {
+      "name": "CardBuff",
+      "original_size": 138,
+      "size": 110,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "5f1364f1c4ffbe9ab8ee5162ed4bec97fc4c3f191072cc3d109522da3199cd61"
+    },
+    {
+      "name": "CardPassive",
+      "original_size": 1230,
+      "size": 1202,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "081452c3a7ae0e87ecd36e648f3c20723ae93dc79d27bbad857eb63d9137c38d"
+    },
+    {
+      "name": "CardPreGroup",
+      "original_size": 128,
+      "size": 4,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "df3f619804a92fdb4057192dc43dd748ea778adc52bc498ce80524c014b81119"
+    },
+    {
+      "name": "ChallengeLimitedTask",
+      "original_size": 6700,
+      "size": 6672,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "562c65eb32d8271bcb742f7f0fbcb0d40d3bfef0692bda3dc1ff65a3edbd5dce"
+    },
+    {
+      "name": "ChallengeTask",
+      "original_size": 2288,
+      "size": 2260,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "cf3b47e1dd699f82457ffb04ea7ac553577c8c8859aeb6b4e1340160685e8150"
+    },
+    {
+      "name": "ChapterInfo",
+      "original_size": 3437,
+      "size": 3409,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "eaae392ca1f3dcee40ca2a0d839c6b35051e051a7eddf8f4961a981e2c9815c1"
+    },
+    {
+      "name": "ChatControl",
+      "original_size": 128,
+      "size": 41,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "ed23e3a631427cb04434ccd6c3db399dabde68205899e0aef6976bbfb727a5e7"
+    },
+    {
+      "name": "ChatLink",
+      "original_size": 128,
+      "size": 99,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "21a03ca9fbe74d1b315238cf35f75b5a97c3fa36c2d8e9c1124316d41cff33eb"
+    },
+    {
+      "name": "CollectMiracle",
+      "original_size": 4018,
+      "size": 3990,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "9bc0cbf3a5ab11c300793dbd26dc5dca2e17661934d04581ca72def4c5e23f8f"
+    },
+    {
+      "name": "Collection",
+      "original_size": 746,
+      "size": 718,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "013aa2c44abcde0ede4db071f632faf8bd31aa9695609450817f3c2b61ff5a2c"
+    },
+    {
+      "name": "CollectionDisplay",
+      "original_size": 7743,
+      "size": 7715,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "352db61028efd1d7e1599649b51032d66654a7c66828f45b112bf571be28691f"
+    },
+    {
+      "name": "CollegeBuilding",
+      "original_size": 3810,
+      "size": 3782,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "c0fccde76f2ecbd621364c9b1b771597c323ee59512f2a24af74735183418a49"
+    },
+    {
+      "name": "CollegeCustomer",
+      "original_size": 14660,
+      "size": 14632,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "80a6d3a2000ab8f296aabe06f5284ca17bdf3413d46b9e03e6d24c277ac6ef7c"
+    },
+    {
+      "name": "CollegeEquibReset",
+      "original_size": 252,
+      "size": 224,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "73e85bf64d2e4a25fe36111b3990a2c5fa84aeef6e8e2bfec95ad28d00192f63"
+    },
+    {
+      "name": "CollegeExplore",
+      "original_size": 1796,
+      "size": 1768,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "96d13c6348381f75cfd603c36e67fa31c006da08b3a2a274dc1174c3ec03e90e"
+    },
+    {
+      "name": "CollegeLevel",
+      "original_size": 22912,
+      "size": 22884,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "dd9067994769db3e0afb18810695e43f5a748bda53f66ff9d1d57b94e66855d1"
+    },
+    {
+      "name": "CollegeQuest",
+      "original_size": 6082,
+      "size": 6054,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "00ae4e51e48eb6a86a8be8e80c42dd67c16bd0aad1d4b6fd610a3cbef8f5e612"
+    },
+    {
+      "name": "CollegeRecipe",
+      "original_size": 5476,
+      "size": 5448,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "a37c3324b8b08e88b8dffd61f1219e159849b3a4ee20ce82772fc4242afcdd8f"
+    },
+    {
+      "name": "CollegeStarLevel",
+      "original_size": 4672,
+      "size": 4644,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "02150590ada2c5ab33cc82f26d0ac8baf37e370a1da3bb1fd2fc5c0d29e42259"
+    },
+    {
+      "name": "CollegeWonderSkill",
+      "original_size": 9177,
+      "size": 9149,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "2062f558cd3f699d28eb3a328696568ea838448e670cb00d1a496b74e0decb5f"
+    },
+    {
+      "name": "Combo",
+      "original_size": 13408,
+      "size": 13380,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "cf267088a617e882a971075fb417712a8f2f39b7396441fc54a64da0e9a38a7f"
+    },
+    {
+      "name": "ComponentBase",
+      "original_size": 254916,
+      "size": 254888,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "7ebb197c8791288f0198887cc390b325f9ae396d17665d1be58fb59a7b50b6c8"
+    },
+    {
+      "name": "CondtionEnum",
+      "original_size": 450,
+      "size": 422,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "77de241c05456efe6a50b1a40425f7f0ccafa2ef939c095576fce1123386159b"
+    },
+    {
+      "name": "Constellation",
+      "original_size": 1754,
+      "size": 1726,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "fd1c1d43dbab559cb8ede4137ffb098b8aa232290075697ee0cd4cf2dfbbe12c"
+    },
+    {
+      "name": "ConstellationContent",
+      "original_size": 191724,
+      "size": 191696,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "00d042f319e51d4d7240fd9c6f290318108fd66557c84f8f27bf45fe078a3d34"
+    },
+    {
+      "name": "ConstellationGift",
+      "original_size": 5168,
+      "size": 5140,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "93fef3a20f0c717f278dc498e264350b98679f10440fd7fe4c584ec95e260f7d"
+    },
+    {
+      "name": "ContinueFightBase",
+      "original_size": 2038,
+      "size": 2010,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "0b22ee0b5184cbae69ea23db8103c25edbc059aec97338aa00d3190c24174393"
+    },
+    {
+      "name": "Conversation",
+      "original_size": 294680,
+      "size": 294652,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "16b0f5fbbbac32c82dce1203038e9d14c0e2b7cb2b31d5eb04efa4291dbc712a"
+    },
+    {
+      "name": "CurrencyDisplay",
+      "original_size": 1838,
+      "size": 1810,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "6534d45cbbfcc2aeb5aac665070bcac4127a15580c7e5c40341f6f4cd9fb22c2"
+    },
+    {
+      "name": "CurrencyType",
+      "original_size": 2870,
+      "size": 2842,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "432c3fd77302a674df202049707d0dacdd75f3b228ca56183982b451a35182a0"
+    },
+    {
+      "name": "DailyDungeon",
+      "original_size": 4091,
+      "size": 4063,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "833e2db2c3ce0086486b70082c799f645f2775fd5cae8244e749205e7b6ed489"
+    },
+    {
+      "name": "DailyTask",
+      "original_size": 1568,
+      "size": 1540,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "39640dfe372aa56156e6b51cd43cf3a87947be06bf883c46256e7269d3a96a3b"
+    },
+    {
+      "name": "DairyResource",
+      "original_size": 488,
+      "size": 460,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "5994f361d32351147b86b43c24cd5ddbd97cfef403a311b8e9eef2466e0b92d0"
+    },
+    {
+      "name": "DamageTable",
+      "original_size": 44174,
+      "size": 44146,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "e936ca18be516d0c3cd6122aaaf0b7707f79e7a82a6208bd8725f8b64a0ec78f"
+    },
+    {
+      "name": "Decoration",
+      "original_size": 486,
+      "size": 458,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "4d6eab6d76473b0265e9d6e5b16d9198d60c872e2a6cbd4c6a835b7dcfec4cea"
+    },
+    {
+      "name": "Device",
+      "original_size": 128,
+      "size": 14,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "ee394688f7ad2b69d4381d2f53dbc0d94314c106d2f435c12094aaa10e4445f1"
+    },
+    {
+      "name": "Director",
+      "original_size": 2143,
+      "size": 2115,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "da10ad7f2890dc09a417b845b752c9e1a0c8a025f3fffb7e2b5d0dfb418f3899"
+    },
+    {
+      "name": "DirectorTimeLine",
+      "original_size": 20337,
+      "size": 20309,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "1f3a2c30f8c1ef15bbf91ff8f033cc77c406ca9c389bf3d85363127088bacd87"
+    },
+    {
+      "name": "DrawParam",
+      "original_size": 11720,
+      "size": 11692,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "94e98c31791624abb428b7eab16ba6932eb57cab73876f4f29a8bea09ebd2154"
+    },
+    {
+      "name": "DrawRules",
+      "original_size": 11986,
+      "size": 11958,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "88fa52ea186d2001477202e093262093c77d069dbc9b2442868d896bdabd1fdc"
+    },
+    {
+      "name": "DropBase",
+      "original_size": 159,
+      "size": 131,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "e7f51ffc5fba7b8c3ec5a735521fba43c18544e1d84a9e3a13dc33013729c086"
+    },
+    {
+      "name": "DropProp",
+      "original_size": 9223,
+      "size": 9195,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "1731a9e7e31920bcb16b96206e28260ba26c9a038bea7946d0d7ad0c7ff6dfc9"
+    },
+    {
+      "name": "Dubbing",
+      "original_size": 41981,
+      "size": 41953,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "642a5269d0489bd42f1f9d78214bead1c70d7059826efb7639d63105bd4f9a0d"
+    },
+    {
+      "name": "DubbingCondition",
+      "original_size": 812,
+      "size": 784,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "a66966a3621aacf3c2f1a7b12dca8bd962435014c355ec86e7c401969ab6fa48"
+    },
+    {
+      "name": "DynamicGradeSuppression",
+      "original_size": 932,
+      "size": 904,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "f3712f7a552ff61dace8d566adcfc732f5088556a29946947af092ec230ff551"
+    },
+    {
+      "name": "ElementSynthesis",
+      "original_size": 2024,
+      "size": 1996,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "36711ce010681a24410513bd66901d8f8404b51f8fc2b8b5aad4d3a5669a755a"
+    },
+    {
+      "name": "EmojiControl",
+      "original_size": 2306,
+      "size": 2278,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "35619e9eb12ddbd66b909cb0538ab299a87cd7d3aa11734ed81f929740b00120"
+    },
+    {
+      "name": "EndlessDungeonTask",
+      "original_size": 948,
+      "size": 920,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "8766abf88f6e5525e934d865e5bfbbd29dc38696c7ad9075312c7888a7ec74f5"
+    },
+    {
+      "name": "EquibAttrib",
+      "original_size": 8424,
+      "size": 8396,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "e1bb8fbdef50f6a0aab8a1aa163d4dec7ba2b2e657151e612c5de8bc667052d6"
+    },
+    {
+      "name": "EquibAttribBD",
+      "original_size": 4362,
+      "size": 4334,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "e3300f84a7afa3bcddb7913194fe49dbe98ba68a0b3f78cfe38be4429f91e870"
+    },
+    {
+      "name": "EquibBase",
+      "original_size": 11394,
+      "size": 11366,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "a3c062f9a451084a85bd3b4eadf00e4ae0e04a77ad135c2c4054799ecf967916"
+    },
+    {
+      "name": "EquibExp",
+      "original_size": 355,
+      "size": 327,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "7ebf73e8c2e0af4fe835c45f9f735d97ec8cd75e323ad0c274f71a159f0cc4fb"
+    },
+    {
+      "name": "EquibStage",
+      "original_size": 167,
+      "size": 139,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "f94a2f87956ecd1eb442a00b7860cf1a8c91345ec23466e18298b191ec2d03dc"
+    },
+    {
+      "name": "EquibSuit",
+      "original_size": 1126,
+      "size": 1098,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "0f53e53c8bf443e8afbe1eff1d0d961e05c11214f824fba7136c794a210c8106"
+    },
+    {
+      "name": "Escort",
+      "original_size": 200,
+      "size": 172,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "424ecd307bf744da11dd74a850f97716546214b4d8232d57adf7bea938213e98"
+    },
+    {
+      "name": "EventNotice",
+      "original_size": 2824,
+      "size": 2796,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "b156ee4d730480adc7ef0d0f44ecf50ca6a9fab327ca1719c6102cff23a08ee9"
+    },
+    {
+      "name": "EventTable",
+      "original_size": 2449,
+      "size": 2421,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "12b513af0d7117dceb6b0396eeaba2e5f77c970db9bb29bdbc5794815f5eff24"
+    },
+    {
+      "name": "ExpressionAnim",
+      "original_size": 1372,
+      "size": 1344,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "33702515f5ee26e4ae046e89233c8deb7d3b6125dd41741c32f24a7328ef9ab2"
+    },
+    {
+      "name": "ExpressionAnimStatus",
+      "original_size": 62477,
+      "size": 62449,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "bca6048a94b2a5b0619b92b0532620fbac50340e230ca8cc595cc1b3788cbfdf"
+    },
+    {
+      "name": "ExpressionInteractiveArea",
+      "original_size": 19767,
+      "size": 19739,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "c8c08d4a1b6d77448dfb885bb2ade74625d2ac146854360b554e1d826ee548cd"
+    },
+    {
+      "name": "ExtraDroop",
+      "original_size": 1819,
+      "size": 1791,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "7a60489ef9f6db7e1f71c8083e264c3d0a17bd170ee686e1bac09943817e7b18"
+    },
+    {
+      "name": "FavorabilityBlog",
+      "original_size": 15829,
+      "size": 15801,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "bb17d745aeaed0159c2a2e7000685cd05cd2a154bc074de29a2ea42367d866a9"
+    },
+    {
+      "name": "FavorabilityDailyTask",
+      "original_size": 16174,
+      "size": 16146,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "d80098ff527c64f795134bae8487060476e088d70a61403216973e95c61e34f4"
+    },
+    {
+      "name": "FavorabilityDairy",
+      "original_size": 12604,
+      "size": 12576,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "7d88f8be2c082de6afebe316bbc1dd9e94ac7bde1b670051c954ab12da46582f"
+    },
+    {
+      "name": "FavorabilityDate",
+      "original_size": 1532,
+      "size": 1504,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "b2f6d384a9ea60acc45044f51cfcc36a17cd15343973ccd2ff38f5d73d7a0a76"
+    },
+    {
+      "name": "FavorabilityFetters",
+      "original_size": 26715,
+      "size": 26687,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "8bf20fc09b780905bc06de23e6725f2b446e2334e43f6832b49e4fa8529c39dc"
+    },
+    {
+      "name": "FavorabilityFiles",
+      "original_size": 30948,
+      "size": 30920,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "b9c568fddad755957e83f48a2d91cabdbcd00b7e0ead4ea4dd882dc4637f5507"
+    },
+    {
+      "name": "FavorabilityHero",
+      "original_size": 3991,
+      "size": 3963,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "de199c7f48e2952b1b270aa0b02b3b4bf31536d68f0a742fb463f2e275432982"
+    },
+    {
+      "name": "FavorabilityIdControl",
+      "original_size": 5055,
+      "size": 5027,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "49f8d8cdfe926f82aeeb853c6a0f25bc5bb96c5d08d32c21dbc8b242bd270353"
+    },
+    {
+      "name": "FavorabilityLevel",
+      "original_size": 253,
+      "size": 225,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "873f6ca020f96034871f3425d47590e92d4cd02899a4d730cfc3bcb12181f7c4"
+    },
+    {
+      "name": "FavorabilitySpecialTask",
+      "original_size": 158,
+      "size": 130,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "e4b5290853e5a31ef2975be13ab4b904881de73940d44a7fa07bc0b441ee70f8"
+    },
+    {
+      "name": "Fishing",
+      "original_size": 390,
+      "size": 362,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "4b3c0f880f434df4a8a2668c0b7892d6f6610483579b25a2f51acc687b724de2"
+    },
+    {
+      "name": "FixMapBase",
+      "original_size": 550772,
+      "size": 550744,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "7a5cc42ad15602cdb944d08ab142aa6ae962e41fe5535468de18946cc7a81c43"
+    },
+    {
+      "name": "Formation",
+      "original_size": 130973,
+      "size": 130945,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "a3082f2194ac4f8579b36cff12bfdc38d331bdabb3d555caf88da08c4e42f31e"
+    },
+    {
+      "name": "FriendLevel",
+      "original_size": 443,
+      "size": 415,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "be6fe37b12d331e323002fd85fa89451266115d619c149e5e23e9ce4efaebb2f"
+    },
+    {
+      "name": "FunctionEnum",
+      "original_size": 552,
+      "size": 524,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "0a6ae1779557e657c752faba856ff789c02901ec167f4da45af9878e4d0ce986"
+    },
+    {
+      "name": "FunctionOpen",
+      "original_size": 1669,
+      "size": 1641,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "f2b2655786c2795a46f27cd168bb0a37a6c562c07538eca3535dd5a21c6a681f"
+    },
+    {
+      "name": "GMAdvanceAccount",
+      "original_size": 1168,
+      "size": 1140,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "fc8c620e36cb05836f7f964841ae3378ff8399fb2f8a07204f85f4e691dac9fc"
+    },
+    {
+      "name": "GameActivity",
+      "original_size": 501,
+      "size": 473,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "6257de1848cd8f824c963643865ac952ce93da15bd2a4c344bc298ca4337057c"
+    },
+    {
+      "name": "Gift",
+      "original_size": 355830,
+      "size": 355802,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "d11303286787274bc3f05137ffc6cf2d17023a6e15c1df2458a40609817ac182"
+    },
+    {
+      "name": "GiftPackage",
+      "original_size": 19427,
+      "size": 19399,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "e69825d8c4ed1559d1e010766a043db1f753ada436acc15efa1643f266c5eac3"
+    },
+    {
+      "name": "GiftPackagePush",
+      "original_size": 1111,
+      "size": 1083,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "366a540027ad788b6732dbd9610f9eb08eff5754bdff472828419b3d15c26bc0"
+    },
+    {
+      "name": "GlobalParamString",
+      "original_size": 25657,
+      "size": 25629,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "4a16b5f5a70609d5fb8b5fa95eea4a20cba227eaae4224997ca511376834e44d"
+    },
+    {
+      "name": "GodHole",
+      "original_size": 803,
+      "size": 775,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "efa261aee7491745f7034e1924e6ca26b6e8575a9b61776b4664da58d13e87d8"
+    },
+    {
+      "name": "GuildChallengeInfo",
+      "original_size": 3657,
+      "size": 3629,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "3b2747141b83ddd84c9d1aecc42f996e9dd5d5db5bb21de49a327160e1f95a20"
+    },
+    {
+      "name": "GuildLevel",
+      "original_size": 128,
+      "size": 22,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "4ad0272110e43081325c18967f2e33643514819fc80eac3a2201aa2a212941cb"
+    },
+    {
+      "name": "GuildPicture",
+      "original_size": 376,
+      "size": 348,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "183bbaecbbac3fbcb1a4166460201ac835268d1c0cb3715af3a07f57043ca137"
+    },
+    {
+      "name": "GuildWish",
+      "original_size": 1862,
+      "size": 1834,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "7e03127fd9d6b63e1443c01dac9aa3f582e8f325761226373947193292de3494"
+    },
+    {
+      "name": "HeroDamageFactor",
+      "original_size": 638,
+      "size": 610,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "0bc14a31bffe8f71a283d71a95e28c5c5d824415378b984cc480be7b7176c08b"
+    },
+    {
+      "name": "HeroLable",
+      "original_size": 1618,
+      "size": 1590,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "67601fbac1b6b90dbf511cc438bff1d491d1094520a238696c19387494c9706c"
+    },
+    {
+      "name": "HolidayTask",
+      "original_size": 128,
+      "size": 64,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "30e9b02263c106bcb944ac533e7471c9138fd45a35589adbb8345c5c091611e7"
+    },
+    {
+      "name": "Illustration",
+      "original_size": 9233,
+      "size": 9205,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "9375fa79dc09b71198790773a27eb286ad28866f550adc51a29448dd97736def"
+    },
+    {
+      "name": "IndexInfo",
+      "original_size": 411,
+      "size": 383,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "77b09a16e1c51652779fff6fc8379e0381fb434f787d86ab094c43288edc3404"
+    },
+    {
+      "name": "Item",
+      "original_size": 255498,
+      "size": 255470,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "85ba18686151a6f977d56104dcbf70bbb1dafcb8fb99ff9829699801b70ea546"
+    },
+    {
+      "name": "ItemGetAndConsume",
+      "original_size": 128,
+      "size": 29,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "eadd1cfc683837f0691fe73976ffe0ac03005ae1281b9fe1c5a7fb587c54559d"
+    },
+    {
+      "name": "ItemSource",
+      "original_size": 5551,
+      "size": 5523,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "8094962417db40decb133ae3a847af290700eaac8375a09eaaf819e8d26846b4"
+    },
+    {
+      "name": "JewelBase",
+      "original_size": 13280,
+      "size": 13252,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "f68bfe40be3f15d9dcab9aa7682e3eef140a65b72aa55e5290dc2b68f0699fa0"
+    },
+    {
+      "name": "Jump",
+      "original_size": 11730,
+      "size": 11702,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "0780aacc3894d703cbe41104758b270437d7416ab23cbf3fa9ec45839c02b0e8"
+    },
+    {
+      "name": "Language",
+      "original_size": 7047314,
+      "size": 7047286,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "ce2c708028bc69a7c4bcae6f8a8d6be1513a6238814498bd45e615cd16fbc548"
+    },
+    {
+      "name": "LanguageFavor",
+      "original_size": 2587820,
+      "size": 2587792,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "877bc11d25ef8cd07e183fee2e618d99e8447af814e83b2798b85381be01edc3"
+    },
+    {
+      "name": "LanguageTalk",
+      "original_size": 4188675,
+      "size": 4188647,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "b03e897450d7f5e8369c64cd8801884f8243d3af2e24b5aa168e545d6e8da0c7"
+    },
+    {
+      "name": "LanguageUI",
+      "original_size": 434659,
+      "size": 434631,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "7330104ad65410eafdc036297e6adea6efd7b7b90e0c3caec8a7639f84d1d302"
+    },
+    {
+      "name": "LightYardControl",
+      "original_size": 163,
+      "size": 135,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "ecb1bc8809a7011067954f1ca4298d78f042327ebed8ef42549a4ff22e435198"
+    },
+    {
+      "name": "MailConfig",
+      "original_size": 4123,
+      "size": 4095,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "cd31dca7bbbc2983d1503ad92fbe25d7c29d973b23bed36b8ac0206acb594a62"
+    },
+    {
+      "name": "MailInfo",
+      "original_size": 71577,
+      "size": 71549,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "f7f483d345e53de6dc1e855cc063c02f6912ae0a0ea6d0289815e3dc57958020"
+    },
+    {
+      "name": "MapInfo",
+      "original_size": 549910,
+      "size": 549882,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "67e4a056f19a8afb0d195b5bfc5aef69be469fde56d11e853f846ba63b1e3f39"
+    },
+    {
+      "name": "MapTrigger",
+      "original_size": 22151,
+      "size": 22123,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "b430fffe3bb0ec0f8d4b579c5c7aa1668a65b5f1ec2f85e8650f9e5375fd62ea"
+    },
+    {
+      "name": "MazeIndepExp",
+      "original_size": 980,
+      "size": 952,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "d2a906e6b973ebe6df8682044a8183bc9fb5878f76abdd01304e6030c45909de"
+    },
+    {
+      "name": "MazeShop",
+      "original_size": 4604,
+      "size": 4576,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "78880480d6b0cf2ea6361575c1bbe0ef5e74eb00c21f33195a5d71fb067c09a6"
+    },
+    {
+      "name": "Medal",
+      "original_size": 6831,
+      "size": 6803,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "a60facea050e5f3eb1c94090ef4ed5c4ee6a7ad2f94a2cac6be34715affea5dd"
+    },
+    {
+      "name": "MemoryBuff",
+      "original_size": 1740,
+      "size": 1712,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "42fd41241ae1da2efbe32136593792388a7ec4035061b09b53944b893fbb9346"
+    },
+    {
+      "name": "MissionPredecessor",
+      "original_size": 2846,
+      "size": 2818,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "574c3487504868089209577b56ca3d561b0927a627173f92cd7915d0fbe93b30"
+    },
+    {
+      "name": "MissionTable",
+      "original_size": 17258,
+      "size": 17230,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "62376891d71004075e1169e466f15a517dfbcbadb18c3e41c93a11fef6035dc0"
+    },
+    {
+      "name": "MonopolyGrid",
+      "original_size": 44299,
+      "size": 44271,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "72fe806ff63d68fc43d55f2b52e058e095a7f60ca01c679e5d073b6e4ad4ffe3"
+    },
+    {
+      "name": "MonsterEventGroup",
+      "original_size": 44864,
+      "size": 44836,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "b142ab17977d8398fa13409e1959d6c8fc5ef6719ba22ea658eec5a10901d993"
+    },
+    {
+      "name": "MonsterEventTable",
+      "original_size": 217415,
+      "size": 217387,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "7d592a71857a9b1634d53b4fa12855de61290e340e5e10a918bcaca4402fd6d9"
+    },
+    {
+      "name": "MonsterLevelBonus",
+      "original_size": 18444,
+      "size": 18416,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "d314dcec7ee4d4057ce5c7d731f8f56acb67c6ee90ede98c35543c13781ef318"
+    },
+    {
+      "name": "MonsterWave",
+      "original_size": 3650,
+      "size": 3622,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "79e7204e4ab4725108b74ec27d484ae4cfd2639708dd1809d7043af756b30579"
+    },
+    {
+      "name": "MoonCamp",
+      "original_size": 1080,
+      "size": 1052,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "c001aa393b9f16e78293e178208c10417c871c268f2a95d1390afa9478d70dd0"
+    },
+    {
+      "name": "MoonEquip",
+      "original_size": 1036,
+      "size": 1008,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "52ccb37c8c0b3eb8e47424f5a1c2f4efb515e1bd79d5bc514247aab222d1caa8"
+    },
+    {
+      "name": "MoonNPC",
+      "original_size": 3032,
+      "size": 3004,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "bc0324628be33c88ea5608059bcda5a3096ccd8ad1ea38dbdc93bb9cb2df654c"
+    },
+    {
+      "name": "MoonTaskDisplay",
+      "original_size": 986,
+      "size": 958,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "350c4db38f7f10bc8880c46e9a335d3560bdbcf0ca5ccbd05fd6cd7a4bb16645"
+    },
+    {
+      "name": "MoonTaskRank",
+      "original_size": 302,
+      "size": 274,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "5088b1ea03bbfb343fb5dd6c458e03bdb122115f4b3641d4d2b4a601e893c8f2"
+    },
+    {
+      "name": "MoonWorldMap",
+      "original_size": 727,
+      "size": 699,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "0487536eb48d1e11d89f8fd6baed5b778486ffaa2af17bc7ae03c181354708df"
+    },
+    {
+      "name": "MsgTips",
+      "original_size": 276,
+      "size": 248,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "1c1fda145b346e512b68806e3a55ceface9084f58bb8b167365a5c323fd28dea"
+    },
+    {
+      "name": "NameList",
+      "original_size": 42049,
+      "size": 42021,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "73288018a74cf285904bf28c8c6330cf0500f767e7f76dede7c306cc0744d895"
+    },
+    {
+      "name": "NewYearCafe",
+      "original_size": 3560,
+      "size": 3532,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "728fd528995333e64b6e84b8700fd513c1dae6ca12657f3a0b99f1c792d23b7f"
+    },
+    {
+      "name": "NewYearCafeBuff",
+      "original_size": 1141,
+      "size": 1113,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "5ef6c31c1c0fd61314e2a0a336225aed2f282c27bb3b3754b7b5175766604a0c"
+    },
+    {
+      "name": "NewYearCook",
+      "original_size": 509,
+      "size": 481,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "539824766768f2315cec809c062ca8d8bbdec799b6daeaa585a8ce44e96c20ad"
+    },
+    {
+      "name": "NewYearCookTask",
+      "original_size": 1878,
+      "size": 1850,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "3eee5123b2031eeb1bbe1c3b47c0a0dd3cf07f9756810dc416de1a7ae625f9db"
+    },
+    {
+      "name": "NewYearFood",
+      "original_size": 1706,
+      "size": 1678,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "3379e6d81f14b78a9ddadeeda8dee499e28ab1ea8c91d896d6a5efba4cbb4b06"
+    },
+    {
+      "name": "NewYearFoodTask",
+      "original_size": 3308,
+      "size": 3280,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "304115b1d9f26910cb74b7a1d02d4b2f3a91979aa3fa4c611d076ee137c1d197"
+    },
+    {
+      "name": "NoticeControl",
+      "original_size": 328,
+      "size": 300,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "67f916245e018e27cc2682089ce36bc2d74707a2ddef8a7e99fc73f3ae9e9f54"
+    },
+    {
+      "name": "NoticeEvent",
+      "original_size": 433,
+      "size": 405,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "91364d4aeb27f5581b051b57dfdfd0f9c45eb6e40e4e56ac4bb919889553bb06"
+    },
+    {
+      "name": "NpcEvent",
+      "original_size": 24807,
+      "size": 24779,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "bc6d9369e5b1e89c86d3fb2edfaf5ba9de053c8071142a751540b10b406f1684"
+    },
+    {
+      "name": "OptionEffect",
+      "original_size": 2028,
+      "size": 2000,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "f88e8851332ece3a0c31f4107652bb278329094d8ab5b9ebc5d8efa614957800"
+    },
+    {
+      "name": "POVChapterInfo",
+      "original_size": 3973,
+      "size": 3945,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "5041cee00d6a1bc830281c131a2edc4218d2ba3c7e609f9906669cdda3577787"
+    },
+    {
+      "name": "PassiveSpellEnhance",
+      "original_size": 1056,
+      "size": 1028,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "be43960d7d73df89b35d5a478f45464699655aaa8de1377d3e156672970ef0e9"
+    },
+    {
+      "name": "PassiveSpellTb",
+      "original_size": 96883,
+      "size": 96855,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "6f02459953ac218d22b05563d104db0c933498c25896cc7ccf123cf0e68fcb90"
+    },
+    {
+      "name": "Picture",
+      "original_size": 7050,
+      "size": 7022,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "9385b8e9cab343c669a993ba5c2f344ba714d9b1549ddfad560b4b5d6f33a673"
+    },
+    {
+      "name": "PictureFrame",
+      "original_size": 590,
+      "size": 562,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "f97d1a3a0265e6c52d5627953144d112a7ea4c74d195c49c9ff8f605f7cdf7b6"
+    },
+    {
+      "name": "PlayerAttrib",
+      "original_size": 63559,
+      "size": 63531,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "ea0f93e5720fdeb74ae9c2f7ff59b377ea6c9c7fe55a552fa7a476dfee0b85df"
+    },
+    {
+      "name": "PlayerLevelBonus",
+      "original_size": 2691,
+      "size": 2663,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "b65af9c1d301d13cb0838d3d170a67d750e00302429f393be42c316a299548fd"
+    },
+    {
+      "name": "PlayerStage",
+      "original_size": 1897,
+      "size": 1869,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "789e8de92be38ed398ea0fde7de56b82e5dc641d9f7e80207f4620ba123ac730"
+    },
+    {
+      "name": "PrivateMail",
+      "original_size": 144565,
+      "size": 144537,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "58ab67dd22fda76cd9b0c9ec00b5ecbf0fe4a220158ef793c28d1796abf4cf2a"
+    },
+    {
+      "name": "PrivateMailControl",
+      "original_size": 128,
+      "size": 80,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "c829562cbacd05450d2e76cbd9c32ddaf59c6f2fbfce6ef08de2fc1f5547d9ba"
+    },
+    {
+      "name": "PrivateMailSystem",
+      "original_size": 128,
+      "size": 89,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "3a29622da9c86c216cd0f8f2ce12b386a90941b7c93cdc55aaf435669935b3cc"
+    },
+    {
+      "name": "ProfRestraint",
+      "original_size": 288,
+      "size": 260,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "1b6e1b72e5c7bfdaad58543bfa133cd63391e88f35455a66bd612c44f41c6d9a"
+    },
+    {
+      "name": "PropertyChange",
+      "original_size": 715,
+      "size": 687,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "f083fa2d2febc0af4c3979c3fdb1c2a0b147101340735425fd168767c71d32eb"
+    },
+    {
+      "name": "PushMessage",
+      "original_size": 284,
+      "size": 256,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "a01ba88dad30bbc7b66e85e34e0bbf1d4348e2f3f0562ad65ba50d0c50293091"
+    },
+    {
+      "name": "Quest",
+      "original_size": 60718,
+      "size": 60690,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "7a3be6a05228f421526ba94c526bb564905ed7fbb4b01aecae35d84a2bbba018"
+    },
+    {
+      "name": "QuestionnaireNew",
+      "original_size": 1041,
+      "size": 1013,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "6d6e50bc9480699f0590292f22b062252cc69080423429d59443937242c780ae"
+    },
+    {
+      "name": "RaceReward",
+      "original_size": 5732,
+      "size": 5704,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "87023b3c38a94e3e6d85eda70cfb111808c3158999c507e190c3f3cfda327454"
+    },
+    {
+      "name": "RandomEvent",
+      "original_size": 17451,
+      "size": 17423,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "ebef3d2a26faaedd54f4745d28caefcf6fa61f9b7dd066978d965bef9f1fa43b"
+    },
+    {
+      "name": "ReadingItemInfo",
+      "original_size": 3903,
+      "size": 3875,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "b3fe323b82573c26aeefee4bddab3cb1e7beff88ae99a70589c15e183a35572b"
+    },
+    {
+      "name": "Recharge",
+      "original_size": 27536,
+      "size": 27508,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "566fc5452e89ebf77e56f05e12720ef297fcb126c52e210b27c89f00dd48d35e"
+    },
+    {
+      "name": "RechargeAccumulate",
+      "original_size": 869,
+      "size": 841,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "9418c150dccbab2706758b22645de531aa2c25a31305797e19633ff85bd09544"
+    },
+    {
+      "name": "RechargeAge",
+      "original_size": 135,
+      "size": 107,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "dc2f82a63b4b80706d6a0ee4e5fba2d3b5cd95c6dc647c80587e9e21cb2382ea"
+    },
+    {
+      "name": "Recipe",
+      "original_size": 4257,
+      "size": 4229,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "d18aac0785f452dbd176f84faf2596885c563f9d9a8a0eb3cf3736c551ad58e7"
+    },
+    {
+      "name": "RedPackage",
+      "original_size": 746,
+      "size": 718,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "c2d846d196d58d30546f8826ed22750c7b485a44ea9fe55bdb42102bb2b452a1"
+    },
+    {
+      "name": "RelicCollect",
+      "original_size": 4406,
+      "size": 4378,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "921f98965b59bd2772c478d0e71e80b2059dff4233ddcce3031b266879fff828"
+    },
+    {
+      "name": "RelicEvent",
+      "original_size": 80648,
+      "size": 80620,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "45a4bdc73d658046c874267a1c32b23d1a3a04dd7ab6bd053215e982054bf3ec"
+    },
+    {
+      "name": "RelicRecommend",
+      "original_size": 2501,
+      "size": 2473,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "ffacab462dc240351fcf9d025bbe3109e3c08f1d63b107a8bf34c69e8427441b"
+    },
+    {
+      "name": "ReturnControl",
+      "original_size": 174,
+      "size": 146,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "245199f82bb629babcbe5ba84aa7fc04a4391065f583f11572eb21687a426a1c"
+    },
+    {
+      "name": "ReturnTask",
+      "original_size": 1584,
+      "size": 1556,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "2c667755185acd38b1748385c91b0c5ac10dfce7c1d6aa33f3e45ca0e6ff7fd4"
+    },
+    {
+      "name": "RoleExp",
+      "original_size": 2357,
+      "size": 2329,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "e9c76afc8a148d7a57c7e526dcbaed5758f3dd03352aeaf9f5ee092b4d81472b"
+    },
+    {
+      "name": "SanConfig",
+      "original_size": 128,
+      "size": 60,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "b4abe2b1bdfde848786058cd8cec35649e027438c35bf3482d5749e800ca8458"
+    },
+    {
+      "name": "SanEffect",
+      "original_size": 1600,
+      "size": 1572,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "0d2e1a72174a7dc8cfe9c74be48098f7ceca093941decf120d5fbb66279a4301"
+    },
+    {
+      "name": "SanTrigger",
+      "original_size": 1968,
+      "size": 1940,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "82e5c637327f4f108a7b93ce486a7fb0819375e5b66c5ddeff2319b57fadc3cd"
+    },
+    {
+      "name": "SceneBase",
+      "original_size": 5074351,
+      "size": 5074323,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "cf5baab570cbc7abfd734749e092122fe5dcd2d144f29c2f81b6eed7f6dca730"
+    },
+    {
+      "name": "SceneDisplay",
+      "original_size": 167,
+      "size": 139,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "b922e93ecf8db999b803f0913ffe531c8cc396e01cf468aed7c5b219119d015a"
+    },
+    {
+      "name": "SceneSkin",
+      "original_size": 158,
+      "size": 130,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "0120f6ee04ed2b8b223b6298354efd6434ecd3ee1781d23cd0ecd676ac41b720"
+    },
+    {
+      "name": "SeasonConfig",
+      "original_size": 25197,
+      "size": 25169,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "6e153a9d369a21e4aa0218639f629ac91ff7afa92dfcc83e97a09bcaeff1f38a"
+    },
+    {
+      "name": "SectionGlobalParam",
+      "original_size": 556,
+      "size": 528,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "77586ba40020d369af3016a3e6b69cad5f471240bb6933d9e1c907d658acb41f"
+    },
+    {
+      "name": "SectionTable",
+      "original_size": 2277460,
+      "size": 2277432,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "54be41becb9313bd8f1163f35a61ec31cd2d719fe4c74ddc1a7a4002ec0aaaa1"
+    },
+    {
+      "name": "SendGiftControl",
+      "original_size": 1864,
+      "size": 1836,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "d3a095a511067e8b797c63346200bb7f09f7f29d51a0c63fb685a9a1fe08b567"
+    },
+    {
+      "name": "ShareMessage",
+      "original_size": 285,
+      "size": 257,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "f695b8d8579c416590a1406c5e4851ef647d222052e4994a99b3647f4b2d8ff8"
+    },
+    {
+      "name": "ShopConfig",
+      "original_size": 4720,
+      "size": 4692,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "22e7d41d4a712b034c813a14716bf4f7517320b7990783e692dda53a47d8dc04"
+    },
+    {
+      "name": "ShopGoodsGroup",
+      "original_size": 34407,
+      "size": 34379,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "4956055ab318f04bee565dc0c2e64ac70050c1fecde1435aa161469d6463188b"
+    },
+    {
+      "name": "SimpleActivity",
+      "original_size": 133,
+      "size": 105,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "a73093288be8ccc0282188fa8dcf9c0f8c0e4d3df38a2991fb351982589fa90b"
+    },
+    {
+      "name": "SimpleActivityAction",
+      "original_size": 128,
+      "size": 60,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "3a696953dd8146aff34f9eb010e079249b459ebd5589a9876a4062c82e7f338d"
+    },
+    {
+      "name": "SkillBase",
+      "original_size": 76856,
+      "size": 76828,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "a86123a3659deed322604af1188347f13f911e86af29a31680ed146740caa4a5"
+    },
+    {
+      "name": "SkillHelper",
+      "original_size": 37096,
+      "size": 37068,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "14117c006b493f514cf66f5cb73c6d642d001b5980b9f0fe0a501cb9064af069"
+    },
+    {
+      "name": "SkillLevel",
+      "original_size": 54448,
+      "size": 54420,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "f99dac81bc1e74dad05c653b2b67db3e489130e87c724af0fc3aa6e2e9f38ba4"
+    },
+    {
+      "name": "SkillLive2D",
+      "original_size": 5000,
+      "size": 4972,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "9afc41fdd038a0895ad6f99c343cf49786c5c7c5aa038c23cd451da65503421d"
+    },
+    {
+      "name": "Snatch",
+      "original_size": 264,
+      "size": 236,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "8bf158cdf702cc56d4d44bae1cd31cbcc9a4490ee3c03dbffa31b9f66b2b2851"
+    },
+    {
+      "name": "SpineAnimation",
+      "original_size": 2191,
+      "size": 2163,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "4cc65580c0445f7fbc22aebc9b874aaeeb662fc00af9a956f969417ef2912ce8"
+    },
+    {
+      "name": "StarChartsBase",
+      "original_size": 1711,
+      "size": 1683,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "bd1a1f5b2a1a1e30cf015e9d0bd06b0f24f5afd487e74cf6c7f43eedccb62371"
+    },
+    {
+      "name": "StarChartsParam",
+      "original_size": 128,
+      "size": 96,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "e81caa24b88f9c589b74c011126a7289345fc1ffa832e1ca64c41b6ea233f2c6"
+    },
+    {
+      "name": "StarChartsSkill",
+      "original_size": 2043,
+      "size": 2015,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "f1c35b85c4b162923dd1101bc5306439d7e15ad42ac04e70bf65e4f58b55009c"
+    },
+    {
+      "name": "StatisticalInformation",
+      "original_size": 128,
+      "size": 82,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "f26601771a01323ba4af35386b9affad87e43c33064e4fb01426794861cf971e"
+    },
+    {
+      "name": "SystemSound",
+      "original_size": 329280,
+      "size": 329252,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "410b0fa5d51e8f2d30f67c49965818214e83b84d6a355f04f5316fc289bcf84f"
+    },
+    {
+      "name": "TaskChapter",
+      "original_size": 8334,
+      "size": 8306,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "8666fb9a8dda2d8dc2303b98534817f1cb02391fba03af5b1ed761840976f468"
+    },
+    {
+      "name": "TaskCondition",
+      "original_size": 60910,
+      "size": 60882,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "5ac7609ff67c0224c96dbfb88f580c34274d36ad5b94f3102cd48acd40f8e9cb"
+    },
+    {
+      "name": "TaskConditionLine",
+      "original_size": 3933,
+      "size": 3905,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "4deb02cdbc1ec38823fedb2157b006134a1329a0ad67288b3103bb704e68684a"
+    },
+    {
+      "name": "TaskControl",
+      "original_size": 389,
+      "size": 361,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "d4739c2ddea75048f5bf4e4d1ad7cb393bb8e4a985d8da59d2c140cc5cd8eae7"
+    },
+    {
+      "name": "TaskEndlessWeek",
+      "original_size": 3050,
+      "size": 3022,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "9c4d9265e21b1878e77e3001faed599869be22a14cface8004549608708be2b0"
+    },
+    {
+      "name": "TaskHappy",
+      "original_size": 1620,
+      "size": 1592,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "7baa5c8effb9262dd83e557c20dba83519b0ec0f2852d1de951527aee552fce7"
+    },
+    {
+      "name": "TaskSeven",
+      "original_size": 3046,
+      "size": 3018,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "a425f6f7dad5e399a220790d483515248963130ecba89526d3b9597e9eaeebc8"
+    },
+    {
+      "name": "Tips",
+      "original_size": 2182,
+      "size": 2154,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "3c7b0ef955ec98f5dc110dec8e4db73cf81c29cca4eb6b62a2014df9884afefe"
+    },
+    {
+      "name": "TitoFightGuideTable",
+      "original_size": 10614,
+      "size": 10586,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "730834298af5a89b58b156d4ef5a47f2b7903d9edb6f7ece6c8e87dfc23a5cb0"
+    },
+    {
+      "name": "TitoGuideTable",
+      "original_size": 13344,
+      "size": 13316,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "01716ac9db509301760f7e8358b386c82d7e233e817e550b8f3a195b9c15e218"
+    },
+    {
+      "name": "Tower",
+      "original_size": 1224,
+      "size": 1196,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "7405e980995c5584df0a7186d486129d17bc1c1f26a1de092145f7d296461671"
+    },
+    {
+      "name": "TowerBase",
+      "original_size": 3685,
+      "size": 3657,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "fb5548f06cf607b9753ca452a91778582e3ee7ef39e258505a22a5823e888e6b"
+    },
+    {
+      "name": "TowerController",
+      "original_size": 8842,
+      "size": 8814,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "38f724a128a426b37a06343147c496ca18c3f7701d5f041cc05746c33aab211f"
+    },
+    {
+      "name": "TowerEffect",
+      "original_size": 1364,
+      "size": 1336,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "55f2b8a8f249941f11d376515fcbc55659beba485873dcfeab539f1743dc7322"
+    },
+    {
+      "name": "TowerGrid",
+      "original_size": 2478,
+      "size": 2450,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "51eaea5e67d0a0678f5dfd1fd462a601a79549927dd1cbe3b0b9d31b753c8292"
+    },
+    {
+      "name": "TowerRank",
+      "original_size": 1172,
+      "size": 1144,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "71cb157cc31c5a2f251af23cd5fb6fcf65da47694c336425a24131c16a6d3c70"
+    },
+    {
+      "name": "TradeActivity",
+      "original_size": 2626,
+      "size": 2598,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "12390d0d417ba53452ec4a0363ad866f4ded94985965cd638a532647abcef325"
+    },
+    {
+      "name": "TrialUnitBase",
+      "original_size": 1800,
+      "size": 1772,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "4b494ee8e42c361e0b51a2b92ff859655aed93d976aee9cddcae0b45b531717f"
+    },
+    {
+      "name": "UnitBase",
+      "original_size": 288509,
+      "size": 288481,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "827f3602a9706fe7dadfd1ff5682a1875730c65a185d19af082c264c662f75dc"
+    },
+    {
+      "name": "UnitEnum",
+      "original_size": 148,
+      "size": 120,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "177c4c47fcf22409a717df3f1e4f50c7b9997bec7a22fa9ab6b26033f8299959"
+    },
+    {
+      "name": "UnitStyle",
+      "original_size": 392,
+      "size": 364,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "381976ae4d22a7b2515e8114abfea7b6d9b46240f7bfca3a0ecd5cb46fa1a9d3"
+    },
+    {
+      "name": "VIP",
+      "original_size": 225,
+      "size": 197,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "f46c582b1c5253dec7a520b03898c3aba8e8d7493290efb227f7f0fbefbf45fb"
+    },
+    {
+      "name": "WeeklyDungeon",
+      "original_size": 807,
+      "size": 779,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "b625943c0670975f084f1e6b006fc8de08eaad692a736cada53cf9f48eb318dc"
+    },
+    {
+      "name": "WorldBossEvent",
+      "original_size": 5258,
+      "size": 5230,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "ea30eef48d4223ab77e6d6000879157eaeec23677401d9bfe45006c85b4f22ee"
+    },
+    {
+      "name": "WorldBossExplore",
+      "original_size": 484,
+      "size": 456,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "50a0a27017591204838ea6aafb61a020cc032217228773d97037777f2bef70b6"
+    },
+    {
+      "name": "WorldBossInfo",
+      "original_size": 1901,
+      "size": 1873,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "24f65875315e071ac7c74e9f7bca6e5b80041fb60212d25d1cfc90cc1b427940"
+    },
+    {
+      "name": "X2BuffBase",
+      "original_size": 114282,
+      "size": 114254,
+      "sha256": "693c1531ff6bdbfc26ee8fbf282d4bbda5bc8ec6814b26162f7c2c98c8f9a95c",
+      "decrypted_sha256": "1bc6b3a8d85b828fd57aa30e972b7df1c1e03a7725a0b6b1b6c453dd9821d144"
+    }
+  ]
+}

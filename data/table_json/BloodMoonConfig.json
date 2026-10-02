@@ -1,0 +1,1 @@
+{"table":"BloodMoonConfig","key_type":"int","columns":["ID","Type","Param","EventType","EventParam","StartOpt1","StartOpt2","EndOpt1","EndOpt2"],"rows":[{"key":1,"ID":1,"Type":1,"Param":200,"EventType":1,"EventParam":[2310827,2310828],"StartOpt1":[1],"StartOpt2":[2,0],"EndOpt1":[2,1]}]}

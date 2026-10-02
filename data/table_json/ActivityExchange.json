@@ -1,0 +1,1 @@
+{"table":"ActivityExchange","key_type":"int","columns":["ConfigID","ShopResourceType","ItemPrice","ItemID","ItemNum","Limit","MonthCardLimit"],"rows":[{"key":315000,"ConfigID":315000,"ShopResourceType":902,"ItemPrice":50,"ItemID":2,"ItemNum":[3]}]}

@@ -1,0 +1,12 @@
+v]g$Ç¿¾–šª‰èx›ZMÍ'Ûºó	Añú¦ŠÀBì0z,Ú’ßéykíJ9yQŸk
+†®²èpÊëÄ!&bÇÕ×¬°_ä%ªu{™gµ‡7n†ı—Î‚„ÛÄÈ¯¥Ñ¬ç‹	€s*Üégm“J(PºRFè*é*ê*ë*ì*í*î*qï*ğ*ñ*ò*ó*ô*õ*ö*÷*øĞ*	eye_happy
+mouth_idleÑ*eye_sad	mouth_sadÒ*eye_ask	mouth_askÓ*ñeye_angrymouth_angryÔ*	eye_happymouth_happyÕ*eye_sadmouth_hap=yÖ*	eye_angrymouth_happy×*eye_cry	mouth_cryØ*eye_wail
+mouth_painÙ*eye_pain
+mouth_painÚ*	eye_sleepmouth_sleepÛ*eye_sadmouth_angryÜİ	eye_angry	mouth_sadİ*
+eye_normalmouth_happyŞ*eye_sad	mouth_askß*eye_askmouth_angryà*	eye_glassmouth_happyá*	eye_glassmoëth_angryâ*
+eye_normalmouth_normal ã*eye_despisemouth_despise$ä*eye_exhaustedmouth_exhaustedå*mouth_normalæ*mouth_happyç*	eye_closemouth_happyè*	eye_laughmouth_happyé*eye_idle
+mouth_idleê*
+eye_trancemouth_tranceë*	eye_angry	mouth_askì*mouth_scareí*	eye_crazymouth_crazyîx*	eye_frostmouth_frostï*eye_red
+mouth_painğ*eye_redmouth_happyñ*
+eye_trance	mouth_cryò*eye_red	mouth_redó*
+eye_normalmouth_normalô*eye_redmouth_happy õ*eye_shishenmouth_shishenö*	eye_proudmouth_proud÷*	eye_proudmouth_angryø*	eye_bleedmouth_blee[
